@@ -1068,23 +1068,24 @@ nav[data-toggle="toc"] {
   z-index: 1;
 }
 
-/* utsa brandinga */
-.utsablueheader {
-
+/* utsa branding */
+.bheader {
   &.fixed-top{
     position: sticky !important;
   }
-
   background: $utsablue;
   padding: 10px 0px 10px 10px;
 }
 
-.utsaorangeheader {
-
+.oheader {
   &.fixed-top{
     position: sticky !important;
   }
-
   background: $utsaoran;
   padding: 1px 0px 3px 3px;
 }
+
+.bg-utsablue {
+  background: $utsablue !important;
+}
+

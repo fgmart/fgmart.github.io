@@ -42,8 +42,8 @@ careers.
 **What prior experience is required to be successful?**
 
 Generally, you should have technical background in a science or
-engineering field (an undergraduate degree). It's OK if you don't have
-a computer science background specifically; prior programming
+engineering field (i.e., an undergraduate degree). It's OK if you don't have
+computer science background specifically; prior programming
 experience is helpful in this case.
 
 For our MS programs, we may stipulate up to two required &#147;bridge
@@ -51,24 +51,38 @@ courses&#148; to give you necessary background in the computing
 field. Please note that these courses do not count towards the MS
 degree itself.
 
-There are specific requirements for international students. Please see
-information at our &#147;apply&#148; links above.
+Please see specific application requirements at our &#147;apply&#148; links above.
 
-<b>What financial support is available for MS students?</b>
+**What financial support is available for MS students?**
 
-MS students support opportunities
+Please see the [Computer Science Department Scholarships
+page](https://sciences.utsa.edu/computer-science/scholarships/) and
+scroll down to the section &#147;Additional Support for Graduate
+Students.&#148; 
 
-<b>What financial support is available for PhD students?</b>
+**What financial support is available for PhD students?**
 
+All full-time, admitted PhD students are welcomed with an appointment as either a Graduate Teaching Assistant (GTA) or Graduate Research Assistant (GRA). This is comprehensive support that comes with a tuition waiver, stipend, and health insurance. 
 
-PhD students are fully supported
+Please see more information at the &#147;Funding Opportunities&#148;
+tab at the PhD &#147;apply&#148; link above.
 
-<b>Where is the official catalog information about the graduate programs in Computer Science?</b>
+**Where is the official catalog information about the graduate programs in Computer Science?**
 
-<em>catalog links</em>
+Please see the &#147;catalog&#148; links next to each of the programs
+listed above.
 
-<b>How do I apply?</b>
+**How do I apply?**
 
-Future Roadrunner links
+Please see the &#147;apply&#148; links next to each of the programs
+listed above.
 
+**Where is the main UTSA Computer Science Department web site?**
+
+It's here: [https://sciences.utsa.edu/computer-science/](https://sciences.utsa.edu/computer-science/).
+
+**I have more questions!**
+
+You are welcome to be in touch with me&#151;Dr. Fred Martin, professor
+and chair, [fred.martin@utsa.edu](mailto:fred.martin@utsa.edu).
 

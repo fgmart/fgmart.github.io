@@ -11,23 +11,23 @@ nav_order: 8
 
 We have three Master of Science (MS) programs and one Doctor of Philosphy (PhD) program:
 
-* *MS in Computer Science* [ [catalog] ](catalog-link) [ [apply] ](future-rr-link) \\
+* *MS in Computer Science* [[catalog]](https://catalog.utsa.edu/graduate/sciences/computerscience/#degreestext) [[apply]](https://future.utsa.edu/programs/master/computer-science/) \\
 This is our comprehensive MS program which provides a powerful
 foundation in the computer science discipline and allows you to
 specialize with advanced courses.
 
-* *MS in Cybersecurity Science* [ [catalog] ](catalog-link) [ [apply] ](future-rr-link) \\
+* *MS in Cybersecurity Science* [[catalog]](https://catalog.utsa.edu/graduate/sciences/computerscience/#degreestext) [[apply]](https://future.utsa.edu/programs/master/cybersecurity-science/) \\
 This is a degree based in the computer science discipline with a
 specific focus on cybersecurity.
 
-* *MS in Artificial Intelligence* [ [catalog] ](catalog-link) [ [apply] ](future-rr-link) \\
+* *MS in Artificial Intelligence* [[catalog]](https://catalog.utsa.edu/graduate/translationalscience/#degreestext) [[apply]](https://future.utsa.edu/programs/master/artificial-intelligence/) \\
 Our program in Artificial Intelligence is offered jointly by UTSA's
 Departments of Computer Science; Electrical and Computer Engineering
 (ECE); and Statistics. It's formally administered by our campus's
 University College. You have the opportunity to take courses in all
 three departments.
 
-* *PhD in Computer Science* [ [catalog] ](catalog-link) [ [apply] ](future-rr-link) \\
+* *PhD in Computer Science* [[catalog]](https://catalog.utsa.edu/graduate/sciences/computerscience/#degreestext) [[apply]](https://future.utsa.edu/programs/doctoral/computer-science/) \\
 This is the research-based degree in computer science in which you
 conduct foundational and advanced coursework and carry out an original
 research dissertation supervised by our faculty members.

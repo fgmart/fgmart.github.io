@@ -67,6 +67,23 @@ All full-time, admitted PhD students are welcomed with an appointment as either 
 Please see more information at the &#147;Funding Opportunities&#148;
 tab at the PhD &#147;apply&#148; link above.
 
+**What kind of research can I do?**
+
+Please see the [CS Department's research
+areas web page](https://sciences.utsa.edu/computer-science/research/), which
+includes a list of faculty members in each area. 
+
+During your first year as a doctoral student, you will engage in a
+structured process for you to find your PhD advisor.
+
+Based on your existing interests, you are welcome to reach out to
+faculty during your application process and after acceptance to the
+program.
+
+Master's students have the option of participating in research. The MS
+degree programs offer Project (one-semester) and Thesis (two-semester)
+research options.
+
 **Where is the official catalog information about the graduate programs in Computer Science?**
 
 Please see the &#147;catalog&#148; links next to each of the programs

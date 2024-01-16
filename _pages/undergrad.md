@@ -9,6 +9,8 @@ nav_order: 7
 
 <!--FAQ format!-->
 
+**this is a stub - themes to be developed**
+
 UTSA offers a Bachelor of Science in Computer Science degree. The
 official catalog information about the program is <a
 href="https://www.utsa.edu/catalog/undergraduate/computer-science">here</a>. 

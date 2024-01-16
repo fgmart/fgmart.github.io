@@ -8,7 +8,7 @@ profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info:  <p>[Main Campus] New Paseo Building 3.108<br>[Downtown Campus] School of Data Science<br>200 Dolorosa Street<br>San Antonio, TX 78249/78xxx</p>
+  more_info:  <p>[Main Campus]<br>New Paseo Building 3.108<br>[Downtown Campus]<br>UTSA School of Data Science<br>200 Dolorosa Street<br>San Antonio, TX 78249/78xxx</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -48,9 +48,10 @@ My team is called the Engaging Computing Group&#151;see our
 
 
 
-**My Teaching.** I've yet to teach an &#147;organized course&#148; at
-UTSA! (That's what we call regularly-scheduled courses here.) My
-[teaching](teaching) page is stubbed in for future development.
+**My Teaching.** In Spring 2024, I am teaching a research-oriented
+  independent study topics class, [Developing AI Tools for
+  Children](teaching/DevelopingAITools). 
+
 
 
 

@@ -62,7 +62,11 @@ Students.&#148;
 
 **What financial support is available for PhD students?**
 
-All full-time, admitted PhD students are welcomed with an appointment as either a Graduate Teaching Assistant (GTA) or Graduate Research Assistant (GRA). This is comprehensive support that comes with a tuition waiver, stipend, and health insurance. 
+All full-time, admitted PhD students are welcomed with an appointment
+as either a Graduate Teaching Assistant (GTA) or Graduate Research
+Assistant (GRA). This is comprehensive support that comes with a
+tuition waiver, stipend, and health insurance. The stipend is a
+year-round award starting at $2,000 per month.
 
 Please see more information at the &#147;Funding Opportunities&#148;
 tab at the PhD &#147;apply&#148; link above.

@@ -35,6 +35,11 @@ to work collaboratively in teams of two or three.
 
 **Week 1**
 
+1. Request to join our [Google
+Group](https://groups.google.com/g/developing-ai-tools-spr24). You
+need this for access to the two papers below.
+ * Join our Discord group using the info in the Google Group.
+
 1. Create a web site where you will keep track of your work and make
 it available to this class for sharing. You can either make it public
 or make it private but in a way that all of us in this class have

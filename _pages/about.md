@@ -8,7 +8,7 @@ profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info:  <p>[Main Campus]<br>New Paseo Building 3.108<br>[Downtown Campus]<br>UTSA School of Data Science<br>200 Dolorosa Street<br>San Antonio, TX 78249/78xxx</p>
+  more_info:  <p>[Main Campus]<br>New Paseo Building 3.108<br>[Downtown Campus]<br>UTSA School of Data Science<br>200 Dolorosa Street<br>San Antonio, TX 78249/78205</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

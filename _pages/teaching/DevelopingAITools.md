@@ -18,7 +18,7 @@ The semester will involve the following activities and schedule:
 
 Jan through mid-Feb | Literature review; how to conduct education research (including human-subjects research training); initial brainstorming of project ideas
 second half of Feb | Project implementation begins; evaluation design
-first half of Mar | Project implementation continues; preparation and submission of research proposals to UML&#146;s Institutional Review Board (IRB)
+first half of Mar | Project implementation continues; preparation and submission of research proposals to UTSA&#146;s Institutional Review Board (IRB)
 second half of Mar | Project implementation concludes
 first half of Apr | Testing with children
 second half of Apr | Writing final paper

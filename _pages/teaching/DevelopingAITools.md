@@ -2,13 +2,11 @@
 layout: page
 permalink: /teaching/DevelopingAITools/
 title: Developing AI Tools for Children
-description: A research-oriented directed study class in Spring 2024
+description: A research-oriented independent study class in Spring 2024
 nav: false
 ---
 
 **What Is This?**
-&#147;Developing AI Tools for Children&#148; is a directed study course.
-
 We will review the literature on existing work, conceive of and build prototypes of new tools, and then test them with our target audience (middle school-age children).
 
 Please be prepared to do literature reviews, read papers, write code, learn how to do education research, and write a paper.

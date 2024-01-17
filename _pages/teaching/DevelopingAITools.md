@@ -6,6 +6,8 @@ description: A research-oriented independent study class in Spring 2024
 nav: false
 ---
 
+**[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp)**
+
 **What Is This?**
 We will review the literature on existing work, conceive of and build prototypes of new tools, and then test them with our target audience (middle school-age children).
 

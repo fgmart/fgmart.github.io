@@ -6,7 +6,7 @@ description: A research-oriented independent study class in Spring 2024
 nav: false
 ---
 
-![]({{ "/assets/img/developing-ai-tools-utsa.png"}}){:style="height:100px"}
+![]({{ "/assets/img/developing-ai-tools-utsa.png"}}){:style="height:180px"}
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
@@ -30,7 +30,6 @@ second half of Apr | Writing final paper
 **Teams** For the project work (including implementation, research
 design, data collection, analysis, and writeup), I encourage students
 to work collaboratively in teams of two or three.
-
 
 
 

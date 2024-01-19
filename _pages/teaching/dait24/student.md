@@ -10,6 +10,7 @@ nav: false
 
 [Samin Alikhani](https://www.salikhani.com/)<br>
 [Adrian Cisneros](https://sites.google.com/view/adrian-aitoolsdevelopment/home)<br>
+[Cesar Hinojosa](https://sites.google.com/view/cesar-hinojosa-dev-ai-tools)<br>
 [Matthew Muriel](https://sites.google.com/view/ai-tools-matthew-muriel/home)<br>
 [Richard Powell](https://sites.google.com/view/rpowell-dait/home) <br>
 [Isaac Nikolayev-Stair](https://sites.google.com/view/isaacnikolayev/home)<br>

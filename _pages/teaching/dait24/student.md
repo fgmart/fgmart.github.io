@@ -15,4 +15,5 @@ nav: false
 [Richard Powell](https://sites.google.com/view/rpowell-dait/home) <br>
 [Isaac Nikolayev-Stair](https://sites.google.com/view/isaacnikolayev/home)<br>
 [Durga Rajarajan](https://sites.google.com/view/durga-develop-ai-tool-for-kids/home)<br>
+[Saniya Vahedian Movahed](https://sites.google.com/view/saniavn/home)<br>
 [Yash Verma](https://sites.google.com/view/yashv-developingaitools/home)

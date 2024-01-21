@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AI Tools for K-12
-description: interactive software to teach about AI
+title: AI for K-12
+description: 
 img: /assets/img/developing-ai-tools-utsa.png
 importance: 1
 category: active

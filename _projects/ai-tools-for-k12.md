@@ -5,7 +5,7 @@ description: interactive software to teach about AI
 img: /assets/img/developing-ai-tools-utsa.png
 importance: 1
 category: active
-related_publications: 10.1145/3545945.3569772, 10.1145/3576123.3576127
+related_publications: 10.1145/3545945.3569772, 10.1145/3576123.3576127, Touretzky_Gardner-McCune_Martin_Seehorn_2019, 10.1145/3544549.3573808
 ---
 
 As part of the [AI-CARING NSF Institute](https://ai-caring.org), we
@@ -52,7 +52,7 @@ The software was developed by Garima Jain (BS in CS 2023) and Vaishali
 Mahipal (MS in CS 2022) with assistance from Dr. Ismaila Sanusi and
 Srija Ghosh (now a computer science student at Cornell University).
 
-It will be presented at [SIGCSE '24](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-Papers-1/181/ChemAIstry-A-Novel-Software-Tool-for-Teaching-Model-Training-in-K-8-Education).
+ChemAIstry has a full paper presentation at [SIGCSE '24](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-Papers-1/181/ChemAIstry-A-Novel-Software-Tool-for-Teaching-Model-Training-in-K-8-Education).
 
 ### Ask Me Anything
 

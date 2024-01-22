@@ -49,7 +49,7 @@ My team is called the Engaging Computing Group&#151;see our
 
 
 **My Teaching.** In Spring 2024, I am teaching a research-oriented
-  independent study topics class, [Developing AI Tools for
+  independent study topics class, [CS 4913 Developing AI Tools for
   Children](teaching/DevelopingAITools). 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/DevelopingAITools/
-title: Developing AI Tools for Children
+title: CS 4913 Developing AI Tools for Children
 description: A research-oriented independent study class in Spring 2024
 nav: false
 ---

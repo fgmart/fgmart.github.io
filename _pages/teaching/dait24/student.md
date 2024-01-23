@@ -10,6 +10,7 @@ nav: false
 
 [Samin Alikhani](https://www.salikhani.com/) \
 [Adrian Cisneros](https://sites.google.com/view/adrian-aitoolsdevelopment/home) \
+[Ian Hankinson](https://sites.google.com/view/ai-tools-ian) \
 [Cesar Hinojosa](https://sites.google.com/view/cesar-hinojosa-dev-ai-tools) \
 [Priyanka Kumar](https://sites.google.com/view/aitoolforchildren-priyanka/home) \
 [Matthew Muriel](https://sites.google.com/view/ai-tools-matthew-muriel/home) \

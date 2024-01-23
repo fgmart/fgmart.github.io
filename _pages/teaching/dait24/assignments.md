@@ -26,7 +26,7 @@ folder](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp
 
 1. Find another paper in the space of **AI, Machine Learning, and Data Science** tools for K-12 learners. Claim it by posting a citation in the new ```#papers``` channel in our Discord. Upload it to the Google Drive folder. On your Week 2 web site area, write a 250-summary of the paper. Link directly to your paper from your web site. Make sure your paper hasn't been claimed already when you choose it! (everyone must have a unique paper)
 
-2. Think of **three** concepts in AI/ML/DS you might be interested in developing a project around. Write ~250 words describing each of these three AI concepts and situating each of them in the “Five Big Ideas” themes developed by Touretsky et al. in the paper above. It's fine if any given of your three concepts fits in multiple themes. (Note: the AI4K12 Big Ideas doesn't really have an area for data science. That's fine—don't worry about this if you're interested in a data science idea.)
+2. Think of **three** concepts in AI/ML/DS you might be interested in developing a project around. Write ~250 words describing each of these three AI concepts and situating each of them in the “Five Big Ideas” themes developed by Touretsky et al. in the paper above. It's fine if any given of your three concepts fits in multiple themes. If it makes sense to include a sketch to describe your idea, please do that. (Note: the AI4K12 Big Ideas doesn't really have an area for data science. That's fine—don't worry about this if you're interested in a data science idea.)
 
 3. For the Williams et al. paper on Pop-Bots, write a ~250-word reflection on how they handled assessing student learning outcomes.
 

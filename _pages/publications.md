@@ -9,6 +9,8 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
+For a complete list, see my <a href="https://scholar.google.com/citations?user=rqpdaP0AAAAJ">Google Scholar page</a>.
+
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>

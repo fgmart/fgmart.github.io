@@ -28,11 +28,14 @@ folder](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp
 
 2. Think of **three** concepts in AI/ML/DS you might be interested in developing a project around. Write ~250 words describing each of these three AI concepts and situating each of them in the “Five Big Ideas” themes developed by Touretsky et al. in the paper above. It's fine if any given of your three concepts fits in multiple themes. If it makes sense to include a sketch to describe your idea, please do that. (Note: the AI4K12 Big Ideas doesn't really have an area for data science. That's fine—don't worry about this if you're interested in a data science idea.)
 
-3. For the Williams et al. paper on Pop-Bots, write a ~250-word reflection on how they handled assessing student learning outcomes.
+3. For the Williams *et al.* paper on Pop-Bots, write a ~250-word reflection on how they handled assessing student learning outcomes.
 
-4. For the Mahipal et al. and Trivedi et al. papers, write a ~250-word reflection (each) on what is most interesting / surprising about this article. This should not be a summary.
+4. For the Mahipal *et al.* paper, write a ~250-word reflection (each) on what is most interesting / surprising about this article. This should not be a summary.
 
-5. If you haven't already completed UTSA's IRB Human Subject Training, start it now. Create an account per files shared in Discord. Do the first four modules in the Social and Behavioral Research training.
+5. If you haven't already completed UTSA's IRB Human Subject Training, start it now. Create an account per files shared in Discord. Do the first three modules in the Social and Behavioral Research training:
+* Belmont Report and Its Principles
+* History and Ethical Principles
+* Defining Research with Human Subjects
 
 Reflections are due on your web sites by **9 AM on Mon Jan 29**.
 

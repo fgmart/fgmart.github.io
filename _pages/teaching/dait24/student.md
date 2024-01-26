@@ -18,4 +18,5 @@ nav: false
 [Isaac Nikolayev-Stair](https://sites.google.com/view/isaacnikolayev/home) \
 [Durga Rajarajan](https://sites.google.com/view/durga-develop-ai-tool-for-kids/home) \
 [Saniya Vahedian Movahed](https://sites.google.com/view/saniavn/home) \
-[Yash Verma](https://sites.google.com/view/yashv-developingaitools/home)
+[Yash Verma](https://sites.google.com/view/yashv-developingaitools/home) \
+[Nathan Wiatrek](https://sites.google.com/view/ai-tools-for-children-wiatrek/home)

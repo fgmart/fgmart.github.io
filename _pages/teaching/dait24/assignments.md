@@ -8,6 +8,27 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**Week 3**
+
+### Readings & Viewing
+
+1. Watch [Gender Shades](https://youtu.be/TWWsW1w-BVo) by Joy
+Boulamwini, which addresses bias in face recognition technology.
+
+1. Select and read two of the papers chosen by your peers last
+week. See more in Assignments.
+
+### Assignments
+
+1. The state of the art in face recognition has improved since
+Dr. Boulamwini's research, owing in substantial part to the impact of
+her work, but the issue of bias in AI technology is still pervasive
+and embedded. Do a little web-searching on this and describe a few
+other areas of AI where bias still an issue (~250 words). Post in your
+Week 3 area of your web site.
+
+
+
 **Week 2**
 
 ### Readings

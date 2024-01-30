@@ -27,6 +27,41 @@ and embedded. Do a little web-searching on this and describe a few
 other areas of AI where bias still an issue (~250 words). Post in your
 Week 3 area of your web site.
 
+1. Per above in Readings, choose two of the papers identified by your
+peers that you'll read. Then, combining with the paper you selected,
+write a ~500 to 750 word synthesis that compares the three
+papers. Please focus on papers that involve children in a study. I'm
+looking for similarities and differences in the research
+methodologies. Post on your Week 3 page.
+
+1. Form a team with one or two other students and develop an idea for
+your semester project.
+
+   On one team member's web site, create an area where all team members can make edits. Other member(s) of the team should link to the central site from their own sites.
+
+   Write an initial draft of the idea, including:
+
+      * overview of the premise;
+      * which ideas in AI will be taught;
+      * one or more drawings presenting the how it will look and work (e.g., it could be a storyboard with several frames indicating how users interact)
+      * a description of how children will interact with the system;
+      * a discussion of what data you could gather.
+
+   In addition to surveys and interview data, make sure to consider
+   about data that can be gathered electronically as a direct result
+   of children's interaction with your system.
+
+   Consider how you will engage students in considering the ethics of
+   AI as part of your project.
+
+   This idea is a first draft; please consider it as open to change as
+   you move forward.
+
+1. Complete the next three modules in the CITI course:
+
+   * The Federal Regulations
+   * Assessing Risk
+   * Informed Consent
 
 
 **Week 2**

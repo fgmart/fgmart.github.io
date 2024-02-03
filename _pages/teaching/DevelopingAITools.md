@@ -15,6 +15,9 @@ We will review the literature on existing work, conceive of and build prototypes
 
 Please be prepared to do literature reviews, read papers, write code, learn how to do education research, and write a paper.
 
+**When and Where?**
+We meet in San Pedro I (Downtown) rm 325 on Tuesdays from 4:30 PM to 6:00 PM.
+
 **The Semester's Arc**
 The semester will involve the following activities and schedule:
 

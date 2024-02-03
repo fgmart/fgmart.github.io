@@ -8,6 +8,62 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**Week 3**
+
+### Readings & Viewing
+
+1. Watch [Gender Shades](https://youtu.be/TWWsW1w-BVo) by Joy
+Boulamwini, which addresses bias in face recognition technology.
+
+1. Select and read two of the papers chosen by your peers last
+week. See more in Assignments.
+
+### Assignments
+
+1. The state of the art in face recognition has improved since
+Dr. Boulamwini's research, owing in substantial part to the impact of
+her work, but the issue of bias in AI technology is still pervasive
+and embedded. Do a little web-searching on this and describe a few
+other areas of AI where bias still an issue (~250 words). Post in your
+Week 3 area of your web site.
+
+1. Per above in Readings, choose two of the papers identified by your
+peers that you'll read. Then, combining with the paper you selected,
+write a ~500 to 750 word synthesis that compares the three
+papers. Please focus on papers that involve children in a study. I'm
+looking for similarities and differences in the research
+methodologies. Post on your Week 3 page.
+
+1. Form a team with one or two other students and develop an idea for
+your semester project.
+
+   On one team member's web site, create an area where all team members can make edits. Other member(s) of the team should link to the central site from their own sites.
+
+   Write an initial draft of the idea, including:
+
+      * overview of the premise;
+      * which ideas in AI will be taught;
+      * one or more drawings presenting the how it will look and work (e.g., it could be a storyboard with several frames indicating how users interact)
+      * a description of how children will interact with the system;
+      * a discussion of what data you could gather.
+
+   In addition to surveys and interview data, make sure to consider
+   about data that can be gathered electronically as a direct result
+   of children's interaction with your system.
+
+   Consider how you will engage students in considering the ethics of
+   AI as part of your project.
+
+   This idea is a first draft; please consider it as open to change as
+   you move forward.
+
+1. Complete the next three modules in the CITI course:
+
+   * The Federal Regulations
+   * Assessing Risk
+   * Informed Consent
+
+
 **Week 2**
 
 ### Readings

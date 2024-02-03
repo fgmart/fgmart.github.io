@@ -9,6 +9,21 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Meeting 3: Tue Jan 30, 2024** \
+Reminder to Fred to record session for Nathan 
+
+CITI course: 
+* Belmont Report
+* History and Ethical Principles
+* Defining Research with Human Subjects
+
+Papers you selected - each presents one
+
+Project ideas you generated - each presents one
+
+Next week's assignments
+
+
 **Meeting 2: Tue Jan 23, 2024** \
 Introductions again :) \
 Process for registering for credit \

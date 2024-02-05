@@ -12,11 +12,6 @@ profiles:
     content: about_saniya.md
     image_circular: true
 
-  - align: left
-    content: about_ismaila.md
-    image: ismaila-sanusi-linkedin.jpg
-    image_circular: true
-
   - content: about_liam.md
   - content: about_nat.md
   - content: about_neha.md

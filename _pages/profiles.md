@@ -17,6 +17,10 @@ profiles:
     image: ismaila-sanusi-linkedin.jpg
     image_circular: true
 
+  - content: about_liam.md
+  - content: about_nat.md
+  - content: about_neha.md
+
   - content: about_past_members.md
 
 

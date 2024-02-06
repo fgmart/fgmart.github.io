@@ -9,6 +9,21 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Meeting 4: Tue Feb 7, 2024**
+
+Reflections on Joy Boulamwini Gender Shades video
+
+CITI course reflections:
+* The Federal Regulations
+* Assessing Risk
+* Informed Consent
+
+How do we measure student learning?
+
+Team formation
+
+
+
 **Meeting 3: Tue Jan 30, 2024** \
 Reminder to Fred to record session for Nathan 
 

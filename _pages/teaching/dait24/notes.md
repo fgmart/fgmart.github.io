@@ -22,6 +22,8 @@ How do we measure student learning?
 
 Team formation
 
+Assignments
+
 
 
 **Meeting 3: Tue Jan 30, 2024** \

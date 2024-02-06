@@ -27,7 +27,13 @@ chatbot](https://drive.google.com/file/d/1BcGdgQlwBAFb-QmRESEfi90SWZzTK4BY/view)
 
 1. For the Exploring children's attitudes paper, write a ~250-word reflection on how they handled assessing student learning outcomes.
 
-1. Finish IRB and upload certificate to our [Google Drive folder](https://drive.google.com/drive/folders/10M85xZcVKdkjawGzbtFc6mniO9BG6hQ2). Modify filename to include your full name and completion date, per examples there..
+1. Finish Social/Behavioral Research Course:
+   * Privacy and Confidentiality
+   * Conflicts of Interest in Human Subjects Research
+   * two UTSA modules
+   
+   and upload certificate to our [Google Drive folder](https://drive.google.com/drive/folders/10M85xZcVKdkjawGzbtFc6mniO9BG6hQ2).\
+   Modify filename to include your full name and completion date, per examples there.
 
 1. Make project initial prototype of GUI and development plan so that
 you can show some initial version on on Tue Mar 5 (during MATRIX-AI

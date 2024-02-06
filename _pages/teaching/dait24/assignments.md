@@ -8,6 +8,31 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**Week 4**
+
+### Readings
+
+1. Shuchi Grover's preprint [Teaching AI in K-12 Learners: Lessons,
+Issues, and
+Guidance](https://drive.google.com/file/d/17Bt-p6CvaFYF4zFaAUW2cu3SvvMQRxoW/view),
+a best paper [SIGCSE '24](https://sigcse2024.sigcse.org/profile/shuchigrover).
+
+1. Saniya and Fred's [Exploring children's attitudes toward an
+age-tailored AI-powered
+chatbot](https://drive.google.com/file/d/1BcGdgQlwBAFb-QmRESEfi90SWZzTK4BY/view). This is a draft under review; do not quote in your own writings. But see reflection prompt below.
+
+### Assignments
+
+1. For the Grover paper, write a ~250-word reflection on what is most interesting / surprising about this article. This should not be a summary.
+
+1. For the Exploring children's attitudes paper, write a ~250-word reflection on how they handled assessing student learning outcomes.
+
+1. Finish IRB and upload certificate to our [Google Drive folder](https://drive.google.com/drive/folders/10M85xZcVKdkjawGzbtFc6mniO9BG6hQ2). Modify filename to include your full name and completion date, per examples there..
+
+1. Make project initial prototype of GUI and development plan so that
+you can show some initial version on on Tue Mar 5 (during MATRIX-AI
+Spring School '24.) Post on one partner's web site.
+
 **Week 3**
 
 ### Readings & Viewing
@@ -86,7 +111,7 @@ folder](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp
 
 3. For the Williams *et al.* paper on Pop-Bots, write a ~250-word reflection on how they handled assessing student learning outcomes.
 
-4. For the Mahipal *et al.* paper, write a ~250-word reflection (each) on what is most interesting / surprising about this article. This should not be a summary.
+4. For the Mahipal *et al.* paper, write a ~250-word reflection on what is most interesting / surprising about this article. This should not be a summary.
 
 5. If you haven't already completed UTSA's IRB Human Subject Training, start it now. Create an account per files shared in Discord. Do the first three modules in the Social and Behavioral Research training:
 * Belmont Report and Its Principles

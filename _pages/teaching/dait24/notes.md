@@ -39,7 +39,15 @@ CITI course reflections:
 How do we measure student learning?
 [notes from conversation](/assets/pdf/dait-assessment-notes-20240206.txt)
 
-Team formation
+Team formation:
+* Durga and Adrian
+* Richard and Ian
+* Matthew and Sam
+* Cesar and Priyanka
+* Yash and Nathan
+* Isaac
+* Saniya
+* Ismaila (consultant)
 
 Assignments
 

@@ -8,6 +8,16 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**Week 5**
+
+### Readings
+No assigned readings this week.
+
+### Assignments
+1. Start building out your project. Plan to show some kind of live demo at our next meeting.
+1. Prepare a plan for what kind of usage data your app will collect (and how it will record those data). Have this written up on your app's area of your web site.
+
+
 **Week 4**
 
 ### Readings

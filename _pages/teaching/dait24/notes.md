@@ -11,9 +11,14 @@ nav: false
 
 **Meeting 5: Tue Feb 13, 2024**
 
+Confirming teams (see notes from Mtg 4 below)
+
 Reflections on Shuchi Grover paper, [Teaching AI in K-12 Learners: Lessons,
 Issues, and
-Guidance](https://drive.google.com/file/d/17Bt-p6CvaFYF4zFaAUW2cu3SvvMQRxoW/view)
+Guidance](https://drive.google.com/file/d/17Bt-p6CvaFYF4zFaAUW2cu3SvvMQRxoW/view) \
+Assessment approaches from Saniya and Fred's [Exploring children's attitudes toward an
+age-tailored AI-powered
+chatbot](https://drive.google.com/file/d/1BcGdgQlwBAFb-QmRESEfi90SWZzTK4BY/view)
 
 David Touretzky's [Stable Diffusion demo](https://github.com/akameswa/DiffusionDemo)
 

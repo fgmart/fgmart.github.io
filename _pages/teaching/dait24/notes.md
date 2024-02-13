@@ -9,6 +9,24 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Meeting 5: Tue Feb 13, 2024**
+
+Reflections on Shuchi Grover paper, [Teaching AI in K-12 Learners: Lessons,
+Issues, and
+Guidance](https://drive.google.com/file/d/17Bt-p6CvaFYF4zFaAUW2cu3SvvMQRxoW/view)
+
+David Touretzky's [Stable Diffusion demo](https://github.com/akameswa/DiffusionDemo)
+
+
+Pasta Land activity!
+* [Decision Tree template](https://docs.google.com/drawings/d/19ucIXHCizFNEFbJYkeUiunIfwuhk3NCw9BBn9nRElb0)
+* [pasta kit](/assets/img/dait24-pasta-land-kit.jpg)
+
+Project idea presentations
+
+Upcoming week's work
+
+
 **Meeting 4: Tue Feb 7, 2024**
 
 Reflections on Joy Boulamwini Gender Shades video

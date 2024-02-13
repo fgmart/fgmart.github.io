@@ -37,6 +37,7 @@ CITI course reflections:
 * Informed Consent
 
 How do we measure student learning?
+[notes from conversation](/assets/pdf/dait-assessment-notes-20240206.txt)
 
 Team formation
 

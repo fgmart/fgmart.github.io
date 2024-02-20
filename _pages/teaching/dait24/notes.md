@@ -9,6 +9,17 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Meeting 6: Tue Feb 20, 2024**
+
+BASIS Shavano demos planned for **Tue Apr 16 and Thu Apr 18, 3 PM to 5
+PM**. Tue date is to be confirmed. Please mark your calendars.
+
+Assignment info for next week.
+
+Student demonstrations of project ideas and initial prototypes
+
+&nbsp;
+
 **Meeting 5: Tue Feb 13, 2024**
 
 Confirming teams (see notes from Mtg 4 below)
@@ -30,6 +41,8 @@ Pasta Land activity!
 Project idea presentations
 
 Upcoming week's work
+
+&nbsp;
 
 
 **Meeting 4: Tue Feb 7, 2024**
@@ -56,6 +69,8 @@ Team formation:
 
 Assignments
 
+&nbsp;
+
 
 
 **Meeting 3: Tue Jan 30, 2024** \
@@ -71,6 +86,8 @@ Papers you selected - each presents one
 Project ideas you generated - each presents one
 
 Next week's assignments
+
+&nbsp;
 
 
 **Meeting 2: Tue Jan 23, 2024** \
@@ -99,6 +116,8 @@ Lee at al
 * potential bias in small sample study
 
 Human subjects research introduction
+
+&nbsp;
 
 
 **Meeting 1: Tue Jan 16, 2024** \

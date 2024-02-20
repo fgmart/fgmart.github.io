@@ -8,6 +8,59 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+
+**Week 6**
+
+### Readings
+No assigned readings this week.
+
+### Assignments
+
+1. 
+I request that your web site has a dedicated area for the
+project. If you've presently documented the project as part of a
+continuous stream of assignment updates, please break it out to its
+own dedicated area. (TY)
+
+    Some people do not have a project area on their web page (because
+    their partner has it). That is fine. However, make sure there is a
+    project menu item that links to the project area on your partner's
+    page.
+
+
+1. Create a detailed plan of what usage metrics your app will gather
+from users.
+
+    Durga and Adrian have an [exemplary
+plan](https://sites.google.com/view/durga-develop-ai-tool-for-kids/project/usage-data-we-plan-to-collect). Please
+review this and use it as a model. Please also re-read Saniya's ***Ask
+Me Anything*** paper for inspiration; the fine-grained data we gathered in this project were essential to our argument of research findings.
+
+    It is not sufficient to only plan for screen-recording; your plan
+    must be customized to your specific app. You will want semantic
+    click data that you can interpret for meaning.
+
+    Your app should also collect student first name, grade level, and at least one usage timestamp.
+
+    Please have a detailed plan published on your web site for the next meeting.
+
+1. Write post-assessment for how you will learn about students' understandings after using your tool.
+
+    This can be in the form of a survey with multiple-choice,
+    fill-in-the-blank, and/or complete-the-sentence prompts.
+
+    Make sure to ask for the student's first name, grade level, and
+    date/time of survey being filled out. This will allow you to
+    connect the survey to the electronic usage log even if you have
+    multiple students with the same first name and grade level.
+
+    Please see this [student work from Spr '23](https://drive.google.com/drive/folders/14UA-3ui7pvl-Fxr3RFIaAj_FHWLwJCwr) for examples.
+    
+1. Continue work on your project implementation.
+
+
+&nbsp;
+
 **Week 5**
 
 ### Readings
@@ -16,6 +69,8 @@ No assigned readings this week.
 ### Assignments
 1. Start building out your project. Plan to show some kind of live demo at our next meeting.
 1. Prepare a plan for what kind of usage data your app will collect (and how it will record those data). Have this written up on your app's area of your web site.
+
+&nbsp;
 
 
 **Week 4**
@@ -48,6 +103,9 @@ chatbot](https://drive.google.com/file/d/1BcGdgQlwBAFb-QmRESEfi90SWZzTK4BY/view)
 1. Make project initial prototype of GUI and development plan so that
 you can show some initial version on on Tue Mar 5 (during MATRIX-AI
 Spring School '24.) Post on one partner's web site.
+
+&nbsp;
+
 
 **Week 3**
 
@@ -104,6 +162,9 @@ your semester project.
    * Assessing Risk
    * Informed Consent
 
+&nbsp;
+
+
 
 **Week 2**
 
@@ -135,6 +196,10 @@ folder](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp
 * Defining Research with Human Subjects
 
 Reflections are due on your web sites by **9 AM on Mon Jan 29**.
+
+&nbsp;
+
+
 
 **Week 1**
 

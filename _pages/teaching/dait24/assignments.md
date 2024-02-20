@@ -22,8 +22,8 @@ project. If you've presently documented the project as part of a
 continuous stream of assignment updates, please break it out to its
 own dedicated area. (TY)
 
-    Some people do not have a project area on their web page (because
-    their partner has it). That is fine. However, make sure there is a
+    Some people do not have a project area on their web site---because
+    their partner has it. That is fine. However, make sure there is a
     project menu item that links to the project area on your partner's
     page.
 

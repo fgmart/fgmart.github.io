@@ -33,8 +33,8 @@ from users.
 
     Durga and Adrian have an [exemplary
 plan](https://sites.google.com/view/durga-develop-ai-tool-for-kids/project/usage-data-we-plan-to-collect). Please
-review this and use it as a model. Please also re-read Saniya's ***Ask
-Me Anything*** paper for inspiration; the fine-grained data we gathered in this project were essential to our argument of research findings.
+review this and use it as a model. Please also re-read Saniya's *Ask
+Me Anything* paper for inspiration; the fine-grained data we gathered in this project were essential to our argument of research findings.
 
     It is not sufficient to only plan for screen-recording; your plan
     must be customized to your specific app. You will want semantic

@@ -8,6 +8,15 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**Meeting 7: Tue Feb 27, 2024**
+
+Updated dates for work with BASIS Shavano: **Mon Apr 15: setup; Thu Apr 18: demos #1; Mon Apr 22; demos #2**. Arrival 2:30 PM and departure 5 PM.
+
+Student presentations of app data-gathering plans and per-project post-surveys.
+
+Collective work on [student pre-survey](https://docs.google.com/document/d/1KEhPaA01u-_kS4LQQuuIkwnatW6bK1cCt-5aLE3TPQU), including editing down starter work I generated with ChatGPT and possibly adding one project-specific item per project.
+
+&nbsp;
 
 **Meeting 6: Tue Feb 20, 2024**
 

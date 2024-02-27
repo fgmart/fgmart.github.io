@@ -9,6 +9,33 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Week 7**
+
+### Readings
+No assigned readings this week.
+
+### Assignments
+
+1. Create a PDF document for inclusion in our submission to the UTSA
+IRB as part of our approval to conduct research with students.
+
+    The PDF should include:
+    * a screenshot of your app main interface.
+    * a brief description of how your app works / what students will do when they use it (50 words max)
+    * a discussion of the data that your app will automatically gather during use.
+    * survey items you will have students complete after use (may be delivered verbally or in written form)
+
+    The PDF should be two pages maximum. Name it ```your-project-name-author1lastname-author2lastname.pdf```.
+
+    Link the PDF to your website *and also* upload it to the [assessments folder](https://drive.google.com/drive/folders/1oAQUkmus4cgdDci6keGhlh67wlcoPEo4) on Google Drive.
+
+2. Continue work on your implementation, *including starting work on
+the automated data gathering*. Please be prepared to present in class
+on Tue Apr 5.
+
+&nbsp;
+
+
 **Week 6**
 
 ### Readings

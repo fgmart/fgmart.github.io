@@ -9,6 +9,20 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Week 8**
+
+### Readings
+No assigned readings this week.
+
+### Assignments
+
+1. Make revisions to your 2-pager based on conversation in class. Replace copy in assessments folder with new version (also update copy on web site). *Please have ready by Sun Mar 10.*
+
+1. Continued work on implementation of software system, including data collection.
+
+&nbsp;
+
+
 **Week 7**
 
 ### Readings

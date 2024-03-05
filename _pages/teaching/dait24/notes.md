@@ -8,6 +8,16 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**Meeting 8: Tue Mar 5, 2024 (4 PM to 5:30 PM)**
+
+Review of assessment plans and data collection code
+
+Review of advertisement to BASIS students and parents
+
+No meeting next week (Spring Break); next meeting is Tue Mar 19.
+
+&nbsp;
+
 **Meeting 7: Tue Feb 27, 2024**
 
 Updated dates for work with BASIS Shavano: **Mon Apr 15: setup; Thu Apr 18: demos #1; Mon Apr 22; demos #2**. Arrival 2:30 PM and departure 5 PM.

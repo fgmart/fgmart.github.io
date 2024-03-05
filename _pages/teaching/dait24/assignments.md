@@ -12,7 +12,17 @@ nav: false
 **Week 8**
 
 ### Readings
-No assigned readings this week.
+
+1. Read the paper [Does Any AI-Based Activity Contribute To Develop AI
+Conception?  A Case Study With Italian Fifth and Sixth Grade
+Classes](https://drive.google.com/file/d/1uQ6KWG4bkosfJDQl7R8U3xZy7LNOa21o/view).
+
+
+    Write a ~250-word reflection on their approach toward assessing
+student learning outcomes. Post to your web site.
+
+    We will discuss at the next class meeting.
+
 
 ### Assignments
 

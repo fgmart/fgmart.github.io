@@ -52,7 +52,10 @@ The software was developed by Garima Jain (BS in CS 2023) and Vaishali
 Mahipal (MS in CS 2022) with assistance from Dr. Ismaila Sanusi and
 Srija Ghosh (now a computer science student at Cornell University).
 
-ChemAIstry has a full paper presentation at [SIGCSE '24](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-Papers-1/181/ChemAIstry-A-Novel-Software-Tool-for-Teaching-Model-Training-in-K-8-Education).
+ChemAIstry has a full paper presentation at [SIGCSE
+'24](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-Papers-1/181/ChemAIstry-A-Novel-Software-Tool-for-Teaching-Model-Training-in-K-8-Education).
+Interact with the [live
+version!](https://vaishalimahipal.github.io/ChemicalAI/index.html)
 
 ### Ask Me Anything
 

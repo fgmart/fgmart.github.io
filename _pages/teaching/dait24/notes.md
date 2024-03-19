@@ -12,10 +12,10 @@ nav: false
 
 Software dev process
 * Tue Apr 2: last show-off day
-** feature complete
-** project is done; no more feedback on design
-** find bugs in our own stuff
-** test data collection
+    * feature complete
+    * project is done; no more feedback on design
+    * find bugs in our own stuff
+    * test data collection
 * Tue Apr 9: testing each other's stuff in class
 * Mon Apr 15: set-up and testing at BASIS
 * Thu Apr 18/Mon Apr 22: work with students

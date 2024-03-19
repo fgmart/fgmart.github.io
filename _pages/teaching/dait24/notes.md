@@ -10,6 +10,21 @@ nav: false
 
 **Meeting 8: Tue Mar 5, 2024 (4 PM to 5:30 PM)**
 
+Software dev process
+* Tue Apr 2: last show-off day
+** feature complete
+** project is done; no more feedback on design
+** find bugs in our own stuff
+** test data collection
+* Tue Apr 9: testing each other's stuff in class
+* Mon Apr 15: set-up and testing at BASIS
+* Thu Apr 18/Mon Apr 22: work with students
+
+Data collection
+* First name, last initial, and grade
+* standardizing on paper-based surveys
+* possibly distribute post-survey shared times across everyone's per-project post-surveys
+
 Review of assessment plans and data collection code
 
 Review of advertisement to BASIS students and parents

@@ -8,6 +8,24 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**Meeting 9: Tue Mar 19, 2024**
+
+Dr. Shuchi Grover virtual visit: brief presentation and Q&A
+
+Discussion of [Does Any AI-Based Activity Contribute To Develop AI
+Conception?  A Case Study With Italian Fifth and Sixth Grade
+Classes](https://drive.google.com/file/d/1uQ6KWG4bkosfJDQl7R8U3xZy7LNOa21o/view)
+* [Promoting computational thinking skills: would you use this Bebras task?](https://aladdin.di.unimi.it/materiali/pubb/2017_issep.pdf)
+* [Attribution of Mental States (AMS) Scale](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02011/full#S10)
+* [AMOS 8-15. Study skills and motivation: assessment tests for children aged 8 to 15. Manual and protocols](https://books-google-com.translate.goog/books/about/AMOS_8_15_Abilit%C3%A0_e_motivazione_allo_st.html?id=VjyIgevx3y4C&_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+
+Latest demos of current software
+
+Open issues
+
+&nbsp;
+
+
 **Meeting 8: Tue Mar 5, 2024 (4 PM to 5:30 PM)**
 
 Software dev process

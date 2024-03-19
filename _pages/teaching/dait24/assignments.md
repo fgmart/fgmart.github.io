@@ -9,6 +9,15 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Week 9**
+
+### Assignments
+
+1. Continued work on implementation of software system, including data collection.
+
+&nbsp;
+
+
 **Week 8**
 
 ### Readings

@@ -8,16 +8,54 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
-**Meeting 9: Tue Mar 19, 2024**
+**Meeting 10: Tue Mar 26, 2024**
 
-Dr. Shuchi Grover virtual visit: brief presentation and Q&A
-
-Discussion of [Does Any AI-Based Activity Contribute To Develop AI
+1. Schedule from here to classroom trials
+```
+Su Mo Tu We Th Fr Sa
+24 25[26]27 28 29 30    Mar 26 - we are here
+31  1[ 2] 3  4  5  6    Apr 2 - feature complete incl. data capture
+ 7  8[ 9]10 11 12 13    Apr 9 - test others sw in class
+14[15]16 17[18]19 20    Apr 15 - dress rehearsal; Apr 18 Day 1 live
+21[22]23 24 25 26 27    Apr 22 - Day 2 live
+```
+1. Discussion of [Does Any AI-Based Activity Contribute To Develop AI
 Conception?  A Case Study With Italian Fifth and Sixth Grade
 Classes](https://drive.google.com/file/d/1uQ6KWG4bkosfJDQl7R8U3xZy7LNOa21o/view)
 * [Promoting computational thinking skills: would you use this Bebras task?](https://aladdin.di.unimi.it/materiali/pubb/2017_issep.pdf)
 * [Attribution of Mental States (AMS) Scale](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.02011/full#S10)
 * [AMOS 8-15. Study skills and motivation: assessment tests for children aged 8 to 15. Manual and protocols](https://books-google-com.translate.goog/books/about/AMOS_8_15_Abilit%C3%A0_e_motivazione_allo_st.html?id=VjyIgevx3y4C&_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+
+1. Discussion of research data collection:
+* recruitment tools: poster, announcement, parent email
+* student assent and pre-survey
+* student post-surveys
+* use of shared unique identifiers across all sub-projects
+* data storage and de-identification
+
+1. IRB approval process:
+    **done**
+* support letter from BASIS Shavano
+* student script, assent, pre-survey
+
+    **todo**
+
+    * parent consent
+    * describing processes above
+    * getting everyone registered in Cayuse -- [spreadsheet](https://utsacloud-my.sharepoint.com/:x:/g/personal/fred_martin_utsa_edu/EdcVPbNS51lJhOB7_Ro806IBrWMOPlHP_H_NzSpcpPzdvQ?e=sqR20H)
+    * finish online submission process
+
+5. Software demos
+
+
+
+
+&nbsp;
+
+
+**Meeting 9: Tue Mar 19, 2024**
+
+Dr. Shuchi Grover virtual visit: brief presentation and Q&A
 
 Latest demos of current software
 

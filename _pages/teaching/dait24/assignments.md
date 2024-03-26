@@ -9,6 +9,19 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Week 10**
+
+### Assignments
+
+Your software system should be feature-complete by class on Apr 2
+* everything you expect it to do should be implemented
+* including instrumentation for data collection
+* you will have one following week to debug
+* **no new features should be added after Apr 2 -- only debugging**
+
+&nbsp;
+
+
 **Week 9**
 
 ### Assignments

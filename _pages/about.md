@@ -24,7 +24,7 @@ department. I started at UTSA on August 1, 2023.
 
 **Chair's Welcome.** It is my privilege to serve the Computer
 Science department as chair. I strive that all have the opportunity to
-pursue their professional success and to foster an enviroment where
+pursue their professional success and to foster an environment where
 all are respected and valued members of our community.
 
 Future and prospective students (and parents and other family

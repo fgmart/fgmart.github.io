@@ -37,7 +37,7 @@ Su Mo Tu We Th Fr Sa
 **Meeting 11: Tue Apr 2, 2024**
 
 1. Finalized plans for data collection with students:
-* Your software should ask for FIRST-NAME, LAST-INITIAL, and GRADE (6, 7, or 8)
+* Your software should ask for FIRST-NAME, LAST-NAME, and GRADE (6, 7, or 8)
 * Grade should be a drop down menu. Don't make them type it in.
 * Install Zoom or other screen- and audio-recording software on your laptop. Make sure you have a valid account to use (e.g. your UTSA credentials, which should give you 40-min meetings on Zoom before you have to restart).
 * I recommend using Google Forms to create your surveys and then print out blank copies for students to fill in after they use your software.

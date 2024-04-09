@@ -8,6 +8,42 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**Meeting 12: Tue Apr 9, 2024**
+
+1. Schedule from here to classroom trials
+```
+Su Mo Tu We Th Fr Sa
+ 7  8[ 9]10 11 12 13    Apr 9 test others sw in class & data collection test
+14[15|16]17[18]19 20    Apr 15 dress rehearsal; Apr 16 class; Apr 18 Day 1 live
+21[22]23 24 25 26 27    Apr 22 Day 2 live
+```
+1. Review data collection details per immediately below (Mtg 11)
+
+1. For Mon Apr 15 at Shavano BASIS
+* arrival time is 3 PM at 4114 Lockhill Selma Rd, San Antonio, TX 78249
+* bring working software on your laptop
+* bring one paper copy of your post-interview form for review
+* leave with 0 to 3 additional Windows laptops
+<br />
+<br />
+1. Student demos focusing on data collection
+* We use each others' software if ready
+<br />
+<br />
+1. Open issues
+
+&nbsp;
+
+**Meeting 11: Tue Apr 2, 2024**
+
+1. Finalized plans for data collection with students:
+* Your software should ask for FIRST-NAME, LAST-INITIAL, and GRADE (6, 7, or 8)
+* Grade should be a drop down menu. Don't make them type it in.
+* Install Zoom or other screen- and audio-recording software on your laptop. Make sure you have a valid account to use (e.g. your UTSA credentials, which should give you 40-min meetings on Zoom before you have to restart).
+* I recommend using Google Forms to create your surveys and then print out blank copies for students to fill in after they use your software.
+
+1.. Software demos and feedback
+
 **Meeting 10: Tue Mar 26, 2024**
 
 1. Schedule from here to classroom trials

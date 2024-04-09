@@ -9,6 +9,23 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Week 12**
+
+### Assignments
+
+1. Arrive to Shavano BASIS per [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) details
+1. Bring working software
+1. Bring one paper copy of your post-interview form
+
+&nbsp;
+
+**Week 11**
+
+nothing added
+
+&nbsp;
+
+
 **Week 10**
 
 ### Assignments

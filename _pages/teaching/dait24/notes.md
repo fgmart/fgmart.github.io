@@ -20,7 +20,8 @@ Su Mo Tu We Th Fr Sa
 1. Review data collection details per immediately below (Mtg 11)
 
 1. For Mon Apr 15 at Shavano BASIS
-* arrival time is 3 PM at 4114 Lockhill Selma Rd, San Antonio, TX 78249
+* arrival time is **2:30 PM at 4114 Lockhill Selma Rd, San Antonio, TX 78249**
+* bring **driver's license or passport**
 * bring working software on your laptop
 * bring one paper copy of your post-interview form for review
 * leave with 0 to 3 additional Windows laptops

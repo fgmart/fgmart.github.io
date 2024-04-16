@@ -8,6 +8,30 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+
+**Meeting 13: Tue Apr 16, 2024**
+
+1. 158 sign-ups so far - 96 on Thu and 62 on Mon
+
+1. Schedule from here to end of semester
+```
+Su Mo Tu We Th Fr Sa
+14 15[16]17[18]19 20    Apr 16 class; Apr 18 Day 1 live
+21[22|23]24 25 26 27    Apr 22 Day 2 live; Apr 23 class (data processing)
+28 29[30] 1  2  3  4    Apr 30 last class (learning outcomes)
+ 5  6  7  8  9[10]11    Final paper due Fri May 10 (exam week)
+12 13 14 15 16 17 18    Grades due May 13
+```
+1. Use [OBS](https://obsproject.com/) for screen and audio recording
+
+1. Fill out Google form with info for project flyer (see link in Discord)
+
+1. Go over [run of show plans](https://utsacloud-my.sharepoint.com/:w:/g/personal/fred_martin_utsa_edu/Ecud41XD-2hPmpKbu1-milABYqqcswmM3jyn_7rGieiwLA?e=IcK2Vj)
+
+
+&nbsp;
+
+
 **Meeting 12: Tue Apr 9, 2024**
 
 1. Schedule from here to classroom trials

@@ -24,6 +24,8 @@ Su Mo Tu We Th Fr Sa
 ```
 1. Use [OBS](https://obsproject.com/) for screen and audio recording
 
+1. Post-survey sharing round
+
 1. Fill out Google form with info for project flyer (see link in Discord)
 
 1. Go over [run of show plans](https://utsacloud-my.sharepoint.com/:w:/g/personal/fred_martin_utsa_edu/Ecud41XD-2hPmpKbu1-milABYqqcswmM3jyn_7rGieiwLA?e=IcK2Vj)

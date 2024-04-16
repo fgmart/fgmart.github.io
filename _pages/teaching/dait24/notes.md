@@ -24,6 +24,8 @@ Su Mo Tu We Th Fr Sa
 ```
 1. Use [OBS](https://obsproject.com/) for screen and audio recording
 
+1. Interest in visiting another school district after semester is ended for outreach?
+
 1. Post-survey sharing round
 
 1. Fill out Google form with info for project flyer (see link in Discord)

@@ -9,6 +9,20 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Meeting 14: Tue Apr 24, 2024**
+
+1. Mon May 13, 9 AM to noon: [Visit to JFK high school, Edgewood district](https://jfkennedy.eisd.net/)
+
+1. Paper format: [SIGCSE submission templates](https://sigcse2024.sigcse.org/track/sigcse-ts-2024-Papers-1#submission-templates)
+
+1. Review presurvey data
+
+1. Sharing of other data collected (students)
+
+&nbsp;
+
+
+
 **Meeting 13: Tue Apr 16, 2024**
 
 1. 158 sign-ups so far - 96 on Thu and 62 on Mon

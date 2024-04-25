@@ -13,12 +13,17 @@ nav: false
 
 1. Mon May 13, 9 AM to noon: [Visit to JFK high school, Edgewood district](https://jfkennedy.eisd.net/)
 
-1. Paper format: [SIGCSE submission templates](https://sigcse2024.sigcse.org/track/sigcse-ts-2024-Papers-1#submission-templates)
-
+1. Paper format:
+* [SIGCSE submission templates](https://sigcse2024.sigcse.org/track/sigcse-ts-2024-Papers-1#submission-templates)
+* [class notes](/assets/pdf/developing-ai-tools-paper-notes-2024-04-23.txt)
+<br />
+<br />
 1. Review presurvey data
 
 1. Sharing of other data collected (students)
-
+* [class notes](/assets/pdf/data-analysis-2024-04-23.txt)
+<br />
+<br />
 &nbsp;
 
 

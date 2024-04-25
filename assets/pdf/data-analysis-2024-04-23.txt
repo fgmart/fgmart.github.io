@@ -1,0 +1,34 @@
+Pre-survey
+
+Fred will share aggregate school race/ethnography and gender data (so no need to code up students' answers - we'll assume we have a representative sample of the overall school population).
+
+Fred will make coding table where I create ID for firstname lastname and replace answers with code.
+
+Then Fred will share full raw data with you all.
+
+Task of de-identifying data: removing firstname/lastname (or initial) + grade identifiers from your local copies.
+
+Main task: making of what happened - how did the students use your system; what can you reveal about this usage by analyzing your data.
+
+What are some questions you can ask about your data?
+
+Looking at usage data vs. post-survey data
+
+E.g. for Sam/Matt's project - how well did they do on the mystery section; relate to time invested in project; to post-survey
+
+Saniya: lots of responses to post-survey (open-ended)
+
+Cesar: also most interesting will be post-survey
+
+Matthew: will it be interesting to write about design process of tool and challenges they faced using the tool?
+
+Yes: reflecting on things that worked and things that could be better, based on your observations.
+
+Ian: reflections on what we observed when students were using the SW.
+
+Matthew: students who were in pairs engaged / interacted with it more than students who worked individually.
+
+
+Saniya's open-ended results - very encouraging.
+
+Coding the responses: classifying the replies. E.g. identify six categories (fun/cool, accurate). For open-ended or observational data.

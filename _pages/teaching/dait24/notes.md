@@ -9,6 +9,17 @@ nav: false
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
 
+**Meeting 15: Tue Apr 30, 2024**
+
+*last class*
+
+* [class notes](/assets/pdf/dait-2024-04-30.txt)
+<br />
+<br />
+&nbsp;
+
+
+
 **Meeting 14: Tue Apr 24, 2024**
 
 1. Mon May 13, 9 AM to noon: [Visit to JFK high school, Edgewood district](https://jfkennedy.eisd.net/)

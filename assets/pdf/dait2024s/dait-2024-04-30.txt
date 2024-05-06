@@ -1,0 +1,29 @@
+Paper
+* how many references? at least 5. 10-15 for conference.
+* Fri May 10 - final paper turn in
+* Tue May 7 - submit to me (optional) for pre-review
+
+Code
+* make sure it's on Github - public or private is fine
+* if it's public, state this in your paper.
+
+May 13 demo at JFK HS
+* RICHARD & IAN - server pythonanywhere
+* ADRIAN (Durga) - doesn't need server; Adrian will be there w/3 laptops (Fred has 2 from Durga) 
+* (Isaac) - 3 laptops - will make instructions
+* (Cesar) - 3 laptops, run w/local server - will send a script
+* (Yash and Nathan) - Yash will set up Fred's M1 mac to run it
+* (Saniya) - 2 laptops; installed, Fred will ask for instructions
+* (Matthew and Sam) - 4 laptops; Matthew will send me instructions for launching, Matthew will drop off cards
+
+Conference paper
+* late July due date
+* Fred is available over summer to assist
+SIGCSE 2025
+Sunday, July 14, 2024: Paper Abstracts
+Sunday, July 21, 2024: Full Papers
+* talked through whole submission process, including CHI's flowchart https://chi2024.acm.org/wp-content/uploads/2023/11/publication_ready_instructions.png.webp
+
+Grant proposal in using Gen AI in middle school with teachers & students
+* teachers & students *using* Gen AI
+* understanding how AI works

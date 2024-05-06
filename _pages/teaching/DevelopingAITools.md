@@ -10,6 +10,9 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
+**CLASS FINAL PROJECT FLYER!** [Click here for PDF](/assets/pdf/dait2024s/UTSA%20Developing%20AI%20Tools%20for%20K-12%20Spring%202024%20flyer.pdf)
+
+
 **What Is This?**
 We will review the literature on existing work, conceive of and build prototypes of new tools, and then test them with our target audience (middle school-age children).
 

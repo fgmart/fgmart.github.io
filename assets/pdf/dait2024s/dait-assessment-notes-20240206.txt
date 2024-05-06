@@ -1,0 +1,39 @@
+How do we measure student learning?
+
+Pre/post surveys (tests)
+
+activities - how they completed; much they understood the concepts
+ask them questions about the activities - pre/post surveys
+observation
+  how fast do they complete the assessment
+  how comfortable are they explaining what they did
+
+game - get points - they would be a quantitative measure; if they get more points, it means they understand it better
+
+random forest - building decision trees - evaluating correctness (or some other properties) of the trees that they make
+
+choose your own adventure
+adaptive learning questioning
+MC with right answers and answers that are close
+
+MC is more likely to get responses than open-ended
+MC reveals the intent of the questioner
+
+open-ended - then what do we do with the data?
+
+more likely to get good answers with interviews
+can use Zoom; auto-transcribe
+
+screen-recording
+audio-recording through Zoom
+post-survey: MC and open
+behavioral observations from recordings
+small groups of students - talking to each other
+
+structured interview
+
+5 to 10 minutes including interaction with sw and conversation
+
+low-level gesture capture (into own DB)
+
+need to think through how to gather (and keep) this data - e.g. own computer; client-server model where we own the server.

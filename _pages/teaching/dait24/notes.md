@@ -13,7 +13,7 @@ nav: false
 
 *last class*
 
-* [class notes](/assets/pdf/dait-2024-04-30.txt)
+* [class notes](/assets/pdf/dait2024s/dait-2024-04-30.txt)
 <br />
 <br />
 &nbsp;
@@ -26,13 +26,13 @@ nav: false
 
 1. Paper format:
 * [SIGCSE submission templates](https://sigcse2024.sigcse.org/track/sigcse-ts-2024-Papers-1#submission-templates)
-* [class notes](/assets/pdf/developing-ai-tools-paper-notes-2024-04-23.txt)
+* [class notes](/assets/pdf/dait2024s/developing-ai-tools-paper-notes-2024-04-23.txt)
 <br />
 <br />
 1. Review presurvey data
 
 1. Sharing of other data collected (students)
-* [class notes](/assets/pdf/data-analysis-2024-04-23.txt)
+* [class notes](/assets/pdf/dait2024s/data-analysis-2024-04-23.txt)
 <br />
 <br />
 &nbsp;
@@ -240,7 +240,7 @@ CITI course reflections:
 * Informed Consent
 
 How do we measure student learning?
-[notes from conversation](/assets/pdf/dait-assessment-notes-20240206.txt)
+[notes from conversation](/assets/pdf/dait2024s/dait-assessment-notes-20240206.txt)
 
 Team formation:
 * Durga and Adrian

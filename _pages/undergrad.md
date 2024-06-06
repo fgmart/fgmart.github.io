@@ -32,6 +32,8 @@ Prior coding experience is *not* required to be successful in Computer Science a
 
 **How will I be supported with academic advising?**
 
+**How can I get academic credit for an internship?**
+
 **What are my career opportunities after graduating?**
 
 **How can I get involved in undergraduate research?**

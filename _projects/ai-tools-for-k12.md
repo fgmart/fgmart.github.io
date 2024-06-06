@@ -5,7 +5,7 @@ description:
 img: /assets/img/developing-ai-tools-utsa.png
 importance: 1
 category: active
-related_publications: 10.1145/3545945.3569772, 10.1145/3576123.3576127, Touretzky_Gardner-McCune_Martin_Seehorn_2019, 10.1145/3544549.3573808
+related_publications: vahedian2024introducing, martin2024chemaistry, 10.1145/3545945.3569772, 10.1145/3576123.3576127, Touretzky_Gardner-McCune_Martin_Seehorn_2019, 10.1145/3544549.3573808
 ---
 
 As part of the [AI-CARING NSF Institute](https://ai-caring.org), we
@@ -52,10 +52,10 @@ The software was developed by Garima Jain (BS in CS 2023) and Vaishali
 Mahipal (MS in CS 2022) with assistance from Dr. Ismaila Sanusi and
 Srija Ghosh (now a computer science student at Cornell University).
 
-ChemAIstry has a full paper presentation at [SIGCSE
-'24](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-Papers-1/181/ChemAIstry-A-Novel-Software-Tool-for-Teaching-Model-Training-in-K-8-Education).
-Interact with the [live
-version!](https://engaging-computing.github.io/ChemAIstry/)
+ChemAIstry was presented at [SIGCSE
+'24](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-Papers-1/181/ChemAIstry-A-Novel-Software-Tool-for-Teaching-Model-Training-in-K-8-Education). Here
+is [the paper](/assets/pdf/3626252.3630804.pdf).  Interact with the
+[live version!](https://engaging-computing.github.io/ChemAIstry/)
 
 ### Ask Me Anything
 
@@ -70,7 +70,7 @@ AMA was developed by UTSA Ph.D. candidate Saniya Vahedian Movahed
 (with UMass Lowell undergraduate Erika Salas) and is being used to
 study children's attitudes of trust and confidence in AI chatbots.
 
-It will be presented SIGCSE '24 in a poster entitled [Perception,
+AMA was presented at SIGCSE '24 in a poster entitled [Perception,
 Trust, Attitudes, and Models: Introducing Children to AI and Machine Learning with Five Software Exhibits](https://sigcse2024.sigcse.org/track/sigcse-ts-2024-posters#program).
 
 

@@ -12,9 +12,10 @@ profiles:
     content: about_saniya.md
     image_circular: true
 
+  - content: about_neha.md
+  - content: about_durga.md
   - content: about_liam.md
   - content: about_nat.md
-  - content: about_neha.md
 
   - content: about_past_members.md
 

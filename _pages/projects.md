@@ -2,12 +2,16 @@
 layout: page
 title: projects
 permalink: /projects/
-description: The Engaging Computing Group's projects
+description: research themes and projects
 nav: true
 nav_order: 2
 display_categories: [active, archived]
 horizontal: false
 ---
+
+My work is about creating new computational technologies for learners
+and partnering with others to create learning environments using these
+computational materials.
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -17,7 +17,7 @@ nav_order: 5
 
 **[Presurvey](https://tinyurl.com/studyai24)**
 
-**Projects** \
+**Projects** [slides](https://utsacloud-my.sharepoint.com/:f:/g/personal/fred_martin_utsa_edu/EmzLGBVUPahFspa6T1uAIdAB--Hqzj9TYnWDt_bv327Xmw?e=cvKMrd) \
 1: *VidMatch* by **Richard Powell** and **Ian Hankinson** \
 2: [Fauna Forest](https://engaging-computing.github.io/FaunaForest/) by **Durga Rajarajan** and **Adrian Cisneros** \
 3: *SnakeAI* by Cesar Hinojosa and **Priyanka Kumar** with **Durga Rajaran** \

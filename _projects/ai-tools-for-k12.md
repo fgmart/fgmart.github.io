@@ -91,4 +91,19 @@ an undergrad in CS at Cornell University) and Ryan Maradiaga
 Here is a live web link to [AI for
 ASL](https://engaging-computing.github.io/AI-for-ASL/SignInterpreter/src/). 
 
+### FaunaForest
+
+![]({{
+ "/assets/img/aitools/fauna-forest.png"}}){:style="height:150px"}
+
+FaunaForest was created by Pragathi Durga Rajarajan and Adrian
+Cisneros as part of the [Spring 2024 Developing AI Tools for
+K-12](../../teaching/DevelopingAITools/) course at UTSA.
+
+FaunaForest aims to teach K-12 students about decision trees via three
+levels of interactive decision tree puzzles. Each puzzle involves
+completing a decision tree that has blank mystery nodes in such a way
+that it will correctly classify various animals.
+
+Try it [here](https://engaging-computing.github.io/FaunaForest/)!
 

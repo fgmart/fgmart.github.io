@@ -30,6 +30,16 @@ Prior coding experience is *not* required to be successful in Computer Science a
 
 **What programming languages will I learn?**
 
+**What kind of computer should I bring?**
+
+Consistent with our campus-wide [Hardware Specifications](https://www.utsa.edu/techsolutions/students/hardware/) guidance, the university---and the Computer Science Department---provide ample computing resources on campus. Bringing your own computer is optional.
+
+Of course, if you do have your own computer, you can use it on campus.
+
+Any of the major operating systems will be fine for your work in Computer Science---Windows, Mac, or Linux.
+
+If there is one recommendation, it would be to have a machine that supports the use of virtual machines. This would suggest at least 16 GB of RAM.
+
 **How will I be supported with academic advising?**
 
 **How can I get academic credit for an internship?**

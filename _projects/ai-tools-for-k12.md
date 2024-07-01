@@ -22,7 +22,7 @@ Taking inspiration from Google's [Quick,
 Draw!](https://quickdraw.withgoogle.com/) demo, Vaishali Mahipal (MS
 in CS, 2022) led the development of
 DoodleIt, a browser-based tool that
-demonstrates how Concurrent Neural Networks (CNNs) perform image
+demonstrates how Convolutional Neural Networks (CNNs) perform image
 recognition.
 
 DoodleIt was presented as a [poster at SIGCSE

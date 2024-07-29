@@ -93,6 +93,15 @@ research options.
 Please see the &#147;catalog&#148; links next to each of the programs
 listed above.
 
+**For applying to the PhD program, can I be exempted from TOEFL/IELTS examination requirement?**
+
+The Graduate School's [International Graduate Student
+Admission](https://catalog.utsa.edu/policies/admission/graduate/internationalgraduatestudents/)
+page lists countries from which students are exempted from the English
+language exam requirement.
+
+If your home country appears on this list, you do not have to submit these exam scores.
+
 **How do I apply?**
 
 Please see the &#147;apply&#148; links next to each of the programs

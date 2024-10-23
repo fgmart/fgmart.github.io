@@ -97,7 +97,7 @@ For your Statement of Purpose, I advise you to do the following:
 
 * Be explicit about how your prior work prepares you for work with each of the faculty whom you are interested in.
 
-* It is best to connect your interests with that of two or three faculty members. Any given person might not be able to take on new students; thus, introduce yourself to several faculty members.
+* It is best to connect your interests with those of two or three faculty members. Any given person might not be able to take on new students; thus, introduce yourself to several faculty members.
 
 This is general advice for all PhD programs to which you are applying.
 

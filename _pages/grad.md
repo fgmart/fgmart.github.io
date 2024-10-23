@@ -88,6 +88,20 @@ Master's students have the option of participating in research. The MS
 degree programs offer Project (one-semester) and Thesis (two-semester)
 research options.
 
+
+**How do I write my Statement of Purpose when applying to the doctoral program?**
+
+For your Statement of Purpose, I advise you to do the following:
+
+* Please see the list of UTSA CS researchers [here](https://sciences.utsa.edu/computer-science/research/) (click on the + signs with each of the five research areas at the bottom of the page and refer to the "Participating Faculty" in each area). Only these faculty advise doctoral students.
+
+* Be explicit about how your prior work prepares you for work with each of the faculty whom you are interested in.
+
+* It is best to connect your interests with that of two or three faculty members. Any given person might not be able to take on new students; thus, introduce yourself to several faculty members.
+
+This is general advice for all PhD programs to which you are applying.
+
+
 **Where is the official catalog information about the graduate programs in Computer Science?**
 
 Please see the &#147;catalog&#148; links next to each of the programs

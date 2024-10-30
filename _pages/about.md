@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi, everyone! I am a professor of computer science
-at the Univerity of Texas at San Antonio. I'm also chair of the
+at the University of Texas at San Antonio. I'm also chair of the
 department. I started at UTSA on August 1, 2023.
 
 

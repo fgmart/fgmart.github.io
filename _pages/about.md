@@ -34,7 +34,7 @@ members): please see my FAQs about our [undergraduate](undergrad) and
 
 
 **My Research.** I create novel technologies to empower young
-learners as designers with computing, artificial intelligence, and
+learners in discovering computing, artificial intelligence, and
 data science. My students and I have designed robotics construction
 kits, a collaborative data visualization platform, and a [virtual
 reality programming environment](https://learnmyr.org).

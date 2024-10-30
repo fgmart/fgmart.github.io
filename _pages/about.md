@@ -8,7 +8,7 @@ profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info: <p>Fall '24 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Tue 2p-3p San Pedro I Downtown <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">email for appointment</a></p>
+  more_info: <p>Fall '24 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Tue 2p-3p San Pedro I 340a <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">email for appointment</a></p>
 
 
 news: false  # includes a list of news items

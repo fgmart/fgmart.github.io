@@ -99,8 +99,6 @@ For your Statement of Purpose, I advise you to do the following:
 
 * It is best to connect your interests with those of two or three faculty members. Any given person might not be able to take on new students; thus, introduce yourself to several faculty members.
 
-This is general advice for all PhD programs to which you are applying.
-
 
 **Where is the official catalog information about the graduate programs in Computer Science?**
 

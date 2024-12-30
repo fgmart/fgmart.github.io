@@ -114,6 +114,20 @@ language exam requirement.
 
 If your home country appears on this list, you do not have to submit these exam scores.
 
+**My institutional transcript is provided in English. Do I still have to
+  submit for Evaluation of Foreign Credentials?**
+
+Yes.
+
+Please see specific information about the Evaluation of Foreign
+Credentials requirement at [Graduate
+Admissions](https://future.utsa.edu/graduate/admissions/) item #4,
+&#147;Submit Transcripts.&#148;
+
+Per the information at the link above, you may use Educational
+Credential Evaluators (ECE), Foreign Credential Service of America
+(FCSA), or any other NACES-approved evaluation agency.
+
 **How do I apply?**
 
 Please see the &#147;apply&#148; links next to each of the programs

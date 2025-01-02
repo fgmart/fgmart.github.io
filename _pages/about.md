@@ -8,7 +8,7 @@ profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info: <p>Fall '24 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Tue 2p-3p San Pedro I 340a <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">email for appointment</a></p>
+  more_info: <p>Spr '25 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Thu 2:30p-3:30p San Pedro I 340a <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
 
 
 news: false  # includes a list of news items
@@ -48,16 +48,12 @@ My team is called the Engaging Computing Group&#151;see our
 [people](people), [projects](projects), and [publications](publications).
 
 
-
-**My Teaching.** In Spring 2024, I taught a small group of students in
-  a research-oriented independent study, [CS 4913 Developing AI Tools
-  for K-12](teaching/DevelopingAITools). In Fall 2024, I am
-  teaching a combined undergrad/grad version of the same; see catalog
-  numbers CS 4953-901 and CS 5463-902. Students in our [MS in
-  AI](https://future.utsa.edu/programs/master/artificial-intelligence/)
-  program may take the graduate section as an elective.
-
-
+**My Teaching.** Since Spring 2024, I have been teaching [CS 4953/5463
+  Developing AI Tools for K-12](teaching/DevelopingAITools). Beginning
+  in Fall 2024 I am co-teaching it with Drs. Ismaila Sanusi and Deepti
+  Tagare. Students in our graduate programs, including the [MS in
+  AI](https://future.utsa.edu/programs/master/artificial-intelligence/),
+  may take the graduate section as an elective.
 
 
 **Before UTSA**, I was at the [University of Massachusetts

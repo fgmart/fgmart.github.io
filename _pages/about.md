@@ -49,7 +49,7 @@ My team is called the Engaging Computing Group&#151;see our
 
 
 **My Teaching.** Since Spring 2024, I have been teaching [CS 4953/5463
-  Developing AI Tools for K-12](teaching/DevelopingAITools). Beginning
+  Developing AI Tools for K-12](teaching/). Beginning
   in Fall 2024 I am co-teaching it with Drs. Ismaila Sanusi and Deepti
   Tagare. Students in our graduate programs, including the [MS in
   AI](https://future.utsa.edu/programs/master/artificial-intelligence/),

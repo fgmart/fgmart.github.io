@@ -7,13 +7,19 @@ nav: true
 nav_order: 6
 
 profiles:
+  - align: left
+    image: ismaila-sanusi-pic.jpg
+    content: about_ismaila.md
+    image_circular: true
+
   - align: right
     image: saniya-vm-linkedin.jpg
     content: about_saniya.md
     image_circular: true
 
-  - content: about_neha.md
   - content: about_durga.md
+
+  - content: about_neha.md
   - content: about_liam.md
   - content: about_nat.md
 

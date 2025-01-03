@@ -18,6 +18,7 @@ profiles:
     image_circular: true
 
   - content: about_durga.md
+  - content: about_rashi.md
 
   - content: about_past_members.md
 

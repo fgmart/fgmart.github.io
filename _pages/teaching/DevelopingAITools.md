@@ -10,7 +10,7 @@ nav: false
 
 **[Home](/teaching/DevelopingAITools) &nbsp; [Meeting Notes](/teaching/DevelopingAITools/dait24/notes) &nbsp; [Student Pages](/teaching/DevelopingAITools/dait24/student) &nbsp; [Google Drive](https://drive.google.com/drive/folders/1mO3MYmMt-b0SZc763X4If9lzzgykz1Pp) &nbsp; [Assignments](/teaching/DevelopingAITools/dait24/assignments)**
 
-**CLASS FINAL PROJECT FLYER!** [Click here for PDF](/assets/pdf/dait2024s/UTSA%20Developing%20AI%20Tools%20for%20K-12%20Spring%202024%20flyer.pdf)
+**CLASS FINAL PROJECT FLYER!** [Click here for PDF](/assets/pdf/AI%20EXPO%20FLYER%20HANDOUT%20Spring%202024%20asterisk.pdf)
 
 
 **What Is This?**

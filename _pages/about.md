@@ -29,7 +29,7 @@ launch on September 1, 2025.
 **Dean's Welcome.** It is my privilege to serve the UT San Antonio
 community as your interim dean.  I strive to support all
 of us&#151;students, staff, and faculty&#151;to have the opportunity to
-pursue your professional success. I wish to foster an environment where
+pursue our professional successes. I wish to foster an environment where
 all are respected and valued members of our community.
 
 Please see [information about the degree

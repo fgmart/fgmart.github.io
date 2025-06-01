@@ -2,13 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="mailto:fred.martin@utsa.edu">Professor and Chair of Computer Science – fred.martin@utsa.edu</a>
+subtitle: <a href="mailto:fred.martin@utsa.edu">Professor, Computer Science &amp; Interim Dean, College of AI, Cyber, and Computing – fred.martin@utsa.edu</a>
 
 profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info: <p>Spr '25 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Thu 2:30p-3:30p San Pedro I 340a <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
+  more_info: <p>Summer '25 Office Hours</br><p><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email for app'tment<a></p>
+
+# more_info: <p>Spr '25 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Thu 2:30p-3:30p San Pedro I 340a <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
 
 
 news: false  # includes a list of news items
@@ -17,20 +19,28 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, everyone! I am a professor of computer science
-at the University of Texas at San Antonio. I'm also chair of the
-department. I started at UTSA on August 1, 2023.
+Hi, everyone! I started at UT San Antonio on August 1, 2023 as
+professor and chair of computer science. Beginning June 1, 2025, I
+am Interim Dean of our new [College of AI, Cyber, and
+Computing](https://provost.utsa.edu/ai-cyber-computing/), which will
+launch on September 1, 2025.
 
 
-
-**Chair's Welcome.** It is my privilege to serve the Computer
-Science department as chair. I strive that all have the opportunity to
-pursue their professional success and to foster an environment where
+**Dean's Welcome.** It is my privilege to serve the UT San Antonio
+community as your interim dean.  I strive to support all
+of us&#151;students, staff, and faculty&#151;to have the opportunity to
+pursue your professional success. I wish to foster an environment where
 all are respected and valued members of our community.
 
-Future and prospective students (and parents and other family
-members): please see my FAQs about our [undergraduate](undergrad) and
-[graduate](grad) programs.
+Please see [information about the degree
+programs](https://www.utsa.edu/today/2024/12/story/utsa-announces-college-of-ai-cyber-and-computing.html)
+which will be stewarded by our new college and some of your [questions
+answered
+here](https://www.utsa.edu/strategicplan/initiatives/academic/ai-cyber-computing-data-science/faq/). Please [email me](mailto:fred.martin@utsa.edu?subject=CAICC questions and ideas) to share any questions, ideas, and suggestions!
+
+Future and prospective CS majors (and parents and other family
+members): please see my FAQs about our computer science
+[undergraduate](undergrad) and [graduate](grad) programs.
 
 
 **My Research.** I create novel technologies to empower young

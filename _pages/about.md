@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, everyone! I started at UT San Antonio on August 1, 2023 as
 professor and chair of computer science. Beginning June 1, 2025, I
-am Interim Dean of our new [College of AI, Cyber, and
+am Interim Dean of our new [College of AI, Cyber and
 Computing](https://provost.utsa.edu/ai-cyber-computing/), which will
 launch on September 1, 2025.
 

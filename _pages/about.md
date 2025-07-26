@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="mailto:fred.martin@utsa.edu">Professor, Computer Science &amp; Interim Dean, College of AI, Cyber, and Computing – fred.martin@utsa.edu</a>
+subtitle: <a href="mailto:fred.martin@utsa.edu">Professor, Computer Science &amp; Interim Dean, College of AI, Cyber and Computing – fred.martin@utsa.edu</a>
 
 profile:
   align: right

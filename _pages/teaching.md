@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+**Fall 2025**
+<br>CS 4953-901 / CS 5463-902 Developing AI Tools for K-12
+[[syllabus]](https://utsa.simplesyllabus.com/api2/doc-pdf/ykx2jpgf8/Fall-2025-CS%2FCS-4953%2F5463-901%2F902-Special-Studies-in-Computer-Science-%3B-Topics-in-Computer-Science.pdf)
+
 **Spring 2025**
 <br>CS 4953-901 / CS 5463-901 Developing AI Tools for K-12
 [[syllabus]](https://utsa.simplesyllabus.com/doc/j4spibc87)

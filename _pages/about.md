@@ -8,7 +8,9 @@ profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info: <p>Summer '25 Office Hours</br><p><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email for app'tment<a></p>
+  more_info: <p>Fall '25 Office Hours<br>Wed 1p-2p, Thu 2:30p-3:30p, Fri 2p-3p<br>San Pedro I 210D <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
+
+#  more_info: <p>Summer '25 Office Hours</br><p><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email for app'tment<a></p>
 
 # more_info: <p>Spr '25 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Thu 2:30p-3:30p San Pedro I 340a <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
 
@@ -19,11 +21,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, everyone! I started at UT San Antonio on August 1, 2023 as
+Hi, everyone! I joined UT San Antonio on August 1, 2023 as
 professor and chair of computer science. Beginning June 1, 2025, I
 am Interim Dean of our new [College of AI, Cyber and
-Computing](https://provost.utsa.edu/ai-cyber-computing/), which will
-launch on September 1, 2025.
+Computing](https://caicc.utsa.edu).
 
 
 **Dean's Welcome.** It is my privilege to serve the UT San Antonio

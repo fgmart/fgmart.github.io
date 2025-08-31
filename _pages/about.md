@@ -34,10 +34,11 @@ successes. I wish to foster an environment where all are respected and
 valued members of our community.
 
 Please see [information about the degree
-programs](https://www.utsa.edu/today/2024/12/story/utsa-announces-college-of-ai-cyber-and-computing.html)
-which will be stewarded by our new college and some of your [questions
-answered
-here](https://www.utsa.edu/strategicplan/initiatives/academic/ai-cyber-computing-data-science/faq/). Please [email me](mailto:fred.martin@utsa.edu?subject=CAICC questions and ideas) to share any questions, ideas, and suggestions!
+programs](https://caicc.utsa.edu/programs/) are stewarded by our new
+college and some of your [questions answered
+here](https://www.utsa.edu/strategicplan/initiatives/academic/ai-cyber-computing-data-science/faq/). Please
+[email me](mailto:fred.martin@utsa.edu?subject=CAICC questions and
+ideas) to share any questions, ideas, and suggestions!
 
 Future and prospective CS majors (and parents and other family
 members): please see my FAQs about our computer science
@@ -67,7 +68,7 @@ My team is called the Engaging Computing Group&#151;see our
   may take the graduate section as an elective.
 
 
-**Before UTSA**, I was at the [University of Massachusetts
+**Before UT San Antonio**, I was at the [University of Massachusetts
 Lowell](https://www.uml.edu). I started in 2002 as an asst. prof. of
 computer science. After tenure, I did a lot of administrative service,
 including being an associate dean. Here's my [web page

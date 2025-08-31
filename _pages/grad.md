@@ -96,7 +96,7 @@ faculty members in your Statement of Purpose. Any given faculty member
 might not be able to take on new students; thus, introduce yourself to
 several.
 
-* Please see the list of UTSA CS researchers
+* Please see the list of UT San Antonio CS researchers
   [here](https://caicc.utsa.edu/computer-science/research/). Click
   on the + signs associated with each of our five research areas at
   the bottom of the page and refer to the "Participating Faculty" in
@@ -138,9 +138,9 @@ Credential Evaluators (ECE), Foreign Credential Service of America
 Please see the &#147;apply&#148; links next to each of the programs
 listed above.
 
-**Where is the main UTSA Computer Science Department web site?**
+**Where is the main UT San Antonio Computer Science Department web site?**
 
-It's here: [https://sciences.utsa.edu/computer-science/](https://sciences.utsa.edu/computer-science/).
+It's here: [https://caicc.utsa.edu/computer-science/](https://caicc.utsa.edu/computer-science/).
 
 **I have more questions!**
 

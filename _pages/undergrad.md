@@ -2,7 +2,7 @@
 layout: page
 permalink: /undergrad/
 title: undergrad
-description: Fred's FAQ for UTSA Computer Science undergraduate program
+description: Fred's FAQ for UT San Antonio Computer Science undergraduate program
 nav: true
 nav_order: 7
 ---
@@ -20,7 +20,7 @@ Please see the [catalog page](https://catalog.utsa.edu/undergraduate/sciences/co
 
 **Is prior coding experience required?** \
 Prior coding experience is *not* required to be successful in Computer
-Science at UTSA! We are happy to welcome students with all prior
+Science at UT San Antonio! We are happy to welcome students with all prior
 backgrounds. Our first-semester computer science class is [CS 1083
 Programming I](https://catalog.utsa.edu/search/?P=CS%201083). It will
 teach you everything you need to know to get started as a computer
@@ -113,11 +113,11 @@ you.
 Please see resources available to CS majors [here](https://sites.google.com/view/utsa-cs-research).
 
 **What student clubs are part of Computer Science?** \
-The CS department hosts [ACM UTSA](https://acmutsa.org/), which is a
+The CS department hosts [ACM UT San Antonio](https://acmutsa.org/), which is a
 student chapter of the international Association for Computing
 Machinery, the professional association for computer scientists.
 
-ACM UTSA includes six sub-organizations:
+ACM includes six sub-organizations:
 [ACM-W](https://acmutsa.org/suborg_acmw/), [ICPC (International
 Collegiate Programming
 Competition)](https://acmutsa.org/suborg_icpc/), [Rowdy

@@ -56,7 +56,7 @@ Please see specific application requirements at our &#147;apply&#148; links abov
 **What financial support is available for MS students?**
 
 Please see the [Computer Science Department Scholarships
-page](https://sciences.utsa.edu/computer-science/scholarships/) and
+page](https://caicc.utsa.edu/computer-science/scholarships/) and
 scroll down to the section &#147;Additional Support for Graduate
 Students.&#148; 
 
@@ -74,7 +74,7 @@ tab at the PhD &#147;apply&#148; link above.
 **What kind of research can I do?**
 
 Please see the [CS Department's research
-areas web page](https://sciences.utsa.edu/computer-science/research/), which
+areas web page](https://caicc.utsa.edu/computer-science/research/), which
 includes a list of faculty members in each area. 
 
 During your first year as a doctoral student, you will engage in a
@@ -97,7 +97,7 @@ might not be able to take on new students; thus, introduce yourself to
 several.
 
 * Please see the list of UTSA CS researchers
-  [here](https://sciences.utsa.edu/computer-science/research/). Click
+  [here](https://caicc.utsa.edu/computer-science/research/). Click
   on the + signs associated with each of our five research areas at
   the bottom of the page and refer to the "Participating Faculty" in
   each area. Only these faculty advise doctoral students.

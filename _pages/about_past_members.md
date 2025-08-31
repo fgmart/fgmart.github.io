@@ -1,6 +1,6 @@
 **Past Members**
 
-UTSA alums of the ECG are Neha Bhosale, Nat Broyles, and Liam Skinner, all of whom worked on the iSENSE Project.
+UT San Antonio alums of the ECG are Saniya Vahedian Movahed (PhD student) and Neha Bhosale, Nat Broyles, Rashi Rautela, and Liam Skinner (undergraduate students).
 
 Fred led the Engaging Computing Group at UMass Lowell from 2002 to 2023.
 Students who earned MS and/or PhD degrees with me as lead advisor as noted.

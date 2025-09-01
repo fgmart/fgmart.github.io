@@ -5,6 +5,6 @@ description: Culturally-sustaining computer science partnerships in middle schoo
 img: assets/img/cspathways.jpg
 redirect: https://cspathways.org
 importance: 2
-category: active
+category: archived
 ---
 

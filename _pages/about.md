@@ -34,7 +34,7 @@ successes. I wish to foster an environment where all are respected and
 valued members of our community.
 
 Please see [information about the degree
-programs](https://caicc.utsa.edu/programs/) are stewarded by our new
+programs](https://caicc.utsa.edu/programs/) stewarded by our new
 college and some of your [questions answered
 here](https://www.utsa.edu/strategicplan/initiatives/academic/ai-cyber-computing-data-science/faq/). Please
 [email me](mailto:fred.martin@utsa.edu?subject=CAICC questions and

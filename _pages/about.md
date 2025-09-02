@@ -48,8 +48,8 @@ members): please see my FAQs about our computer science
 **My Research.** I create novel technologies to empower young
 learners in discovering computing, artificial intelligence, and
 data science. My students and I have designed robotics construction
-kits, a collaborative data visualization platform, and a [virtual
-reality programming environment](https://learnmyr.org).
+kits, a collaborative data visualization platform, and a virtual
+reality programming environment.
 
 I work with K&#150;12 teachers and school districts to bring these
 materials to their students. I collaborate with faculty in computer

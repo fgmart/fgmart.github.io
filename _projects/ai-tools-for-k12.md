@@ -5,7 +5,7 @@ description:
 img: /assets/img/developing-ai-tools-utsa.png
 importance: 1
 category: active
-related_publications: 10.1145/3724363.3729068, 10.1145/3724363.3729080, 10.1145/3706599.3719789, Wiatrek_Verma_Martin_2025, VahedianMovahed_Martin_2025, 10.1145/3641554.3701907, 10.1145/3702242, vahedian2024introducing, martin2024chemaistry, 10.1145/3545945.3569772, 10.1145/3576123.3576127, Touretzky_Gardner-McCune_Martin_Seehorn_2019, 10.1145/3544549.3573808
+related_publications: 10.1145/3724363.3729068, 10.1145/3724363.3729080, 10.1145/3706599.3719789, Wiatrek_Verma_Martin_2025, VahedianMovahed_Martin_2025, 10.1145/3641554.3701907, 11147419, 11147299, 10.1145/3702242, vahedian2024introducing, martin2024chemaistry, 10.1145/3545945.3569772, 10.1145/3576123.3576127, Touretzky_Gardner-McCune_Martin_Seehorn_2019, 10.1145/3544549.3573808
 ---
 
 As part of the [AI-CARING NSF Institute](https://ai-caring.org), we

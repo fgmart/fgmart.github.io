@@ -21,6 +21,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<hr>
+**WE ARE HIRING for multiple faculty positions in the College of AI, Cyber and Computing!!** <br>
+[Tenure-Track/Tenured Assistant/Associate/Full Professor of Information Systems and Cybersecurity](https://www.higheredjobs.com/institution/details.cfm?JobCode=179267137)
+ (priority app due Mon Nov 3); <br>
+[Tenure-Track Asst Prof of Computer Science with focus area in cybersecurity and privacy](https://www.higheredjobs.com/institution/details.cfm?JobCode=179269541)
+ (priority app due Sat Nov 15); <br>
+[Open Rank Teaching-Track Professor of Computer Science](https://www.higheredjobs.com/institution/details.cfm?JobCode=179257935)
+ (priority app due Sat Nov 15); 
+<hr>
+
+
 Hi, everyone! I joined UT San Antonio on August 1, 2023 as
 professor and chair of computer science. Beginning June 1, 2025, I
 am Interim Dean of our new [College of AI, Cyber and
@@ -43,7 +54,6 @@ ideas) to share any questions, ideas, and suggestions!
 Future and prospective CS majors (and parents and other family
 members): please see my FAQs about our computer science
 [undergraduate](undergrad) and [graduate](grad) programs.
-
 
 **My Research.** I create novel technologies to empower young
 learners in discovering computing, artificial intelligence, and

@@ -17,7 +17,6 @@ learners to ideas in AI.
 ![]({{
  "/assets/img/aitools/aicheftrainer-hero.png"}}){:style="height:150px"}
 
-
 AI Chef Trainer was developed by UTSA Ph.D. candidate Saniya Vahedian
 Movahed in Spring 2024. Its goal is to introduce students to key ideas
 in machine learning via the engaging task of recipe
@@ -25,10 +24,6 @@ recommendation. Students select ingredients to see what recipes are
 predicted by the AI Chef; then they enter their own recipes
 (retraining the AI) and then test to see how their recipes can then be
 recommended by the AI Chef.
-
-Slides for using AI Chef Trainer with your students are available [here](https://utsacloud-my.sharepoint.com/:p:/g/personal/fred_martin_utsa_edu/EZPP08Cxzz1KpMaNq18LstABcJ5sK3imLjSToSvjMfNfHA?e=5Tq9h4).
-
-Try it out here! [AI Chef Trainer](https://aichef.pythonanywhere.com/)
 
 ### Into The Rabbit Hole
 

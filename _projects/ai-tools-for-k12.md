@@ -12,19 +12,6 @@ As part of the [AI-CARING NSF Institute](https://ai-caring.org), we
 are developing a set of interactive tools to introduce novice
 learners to ideas in AI.
 
-### AI Chef Trainer
-
-![]({{
- "/assets/img/aitools/aicheftrainer-hero.png"}}){:style="height:150px"}
-
-AI Chef Trainer was developed by UTSA Ph.D. candidate Saniya Vahedian
-Movahed in Spring 2024. Its goal is to introduce students to key ideas
-in machine learning via the engaging task of recipe
-recommendation. Students select ingredients to see what recipes are
-predicted by the AI Chef; then they enter their own recipes
-(retraining the AI) and then test to see how their recipes can then be
-recommended by the AI Chef.
-
 ### Into The Rabbit Hole
 
 ![]({{
@@ -35,13 +22,34 @@ Rajarajan in Fall 2024. It introduces the concepts of depth-first
 search (DFS) and breadth-first search (BFS) via a game of helping a
 rabbit find carrots in a maze. It starts with a tutorial and then has
 a game mode where you have to solve as many DFS and BFS puzzles as
-possible in the time allotted.
+possible in the time allotted. [IntoTheRabbitHole: A Web Application
+for Teaching Middle School Students About Search
+Algorithms](https://dl.acm.org/doi/pdf/10.1145/3724363.3729080) was
+presented at ITiCSE 2025 and was nominated for a Best Paper award.
 
 Try it here! [Into The Rabbit Hole](https://pdr24.github.io/IntoTheRabbitHole/)
 
+### FaunaForest
+
+![]({{
+ "/assets/img/aitools/fauna-forest.png"}}){:style="height:150px"}
+
+FaunaForest was created by Pragathi Durga Rajarajan and Adrian
+Cisneros as part of the [Spring 2024 Developing AI Tools for
+K-12](../../teaching/DevelopingAITools/) course at UTSA.
+
+FaunaForest aims to teach K-12 students about decision trees via three
+levels of interactive decision tree puzzles. Each puzzle involves
+completing a decision tree that has blank mystery nodes in such a way
+that it will correctly classify various animals. [FaunaForest: A Novel
+Software Tool for Teaching Decision Trees to Middle School
+Students](https://ieeexplore.ieee.org/document/11147419) was presented
+at the 2025 IEEE Integrated STEM Education Conference (ISEC).
+
+Try it [here](https://engaging-computing.github.io/FaunaForest/)!
+
 
 ### DoodleIt
-
 
 ![]({{
  "/assets/img/publication_preview/doodleit.png"}}){:style="height:150px"}
@@ -85,22 +93,6 @@ ChemAIstry was presented at [SIGCSE
 is [the paper](/assets/pdf/3626252.3630804.pdf).  Interact with the
 [live version!](https://engaging-computing.github.io/ChemAIstry/)
 
-### Ask Me Anything
-
-![]({{
- "/assets/img/aitools/ask-me-anything.png"}}){:style="height:150px"}
-
-Ask Me Anything (AMA) is a specialized chatbot that answers only
-topic-specific questions in three areas&#151;astronomy, sneakers and shoes,
-and dinosaurs.
-
-AMA was developed by UTSA Ph.D. candidate Saniya Vahedian Movahed
-(with UMass Lowell undergraduate Erika Salas) and is being used to
-study children's attitudes of trust and confidence in AI chatbots.
-
-AMA was presented at SIGCSE '24 in a poster entitled [Perception,
-Trust, Attitudes, and Models: Introducing Children to AI and Machine Learning with Five Software Exhibits](https://sigcse2024.sigcse.org/track/sigcse-ts-2024-posters#program).
-
 
 ### AI for American Sign Language
 
@@ -119,19 +111,40 @@ an undergrad in CS at Cornell University) and Ryan Maradiaga
 Here is a live web link to [AI for
 ASL](https://engaging-computing.github.io/AI-for-ASL/SignInterpreter/src/). 
 
-### FaunaForest
+### AI Chef Trainer
 
 ![]({{
- "/assets/img/aitools/fauna-forest.png"}}){:style="height:150px"}
+ "/assets/img/aitools/aicheftrainer-hero.png"}}){:style="height:150px"}
 
-FaunaForest was created by Pragathi Durga Rajarajan and Adrian
-Cisneros as part of the [Spring 2024 Developing AI Tools for
-K-12](../../teaching/DevelopingAITools/) course at UTSA.
+AI Chef Trainer was developed by UTSA Ph.D. candidate Saniya Vahedian
+Movahed in Spring 2024. Its goal is to introduce students to key ideas
+in machine learning via the engaging task of recipe
+recommendation. Students select ingredients to see what recipes are
+predicted by the AI Chef; then they enter their own recipes
+(retraining the AI) and then test to see how their recipes can then be
+recommended by the AI Chef. [AI Chef Trainer: Introducing Students to
+the Importance of Data in Machine
+Learning](https://ojs.aaai.org/index.php/AAAI/article/view/35196/37351)
+was presented at the Educational Advances in AI symposium at AAAI
+2025.
 
-FaunaForest aims to teach K-12 students about decision trees via three
-levels of interactive decision tree puzzles. Each puzzle involves
-completing a decision tree that has blank mystery nodes in such a way
-that it will correctly classify various animals.
+### Ask Me Anything
 
-Try it [here](https://engaging-computing.github.io/FaunaForest/)!
+![]({{
+ "/assets/img/aitools/ask-me-anything.png"}}){:style="height:150px"}
+
+Ask Me Anything (AMA) is a specialized chatbot that answers only
+topic-specific questions in three areas&#151;astronomy, sneakers and shoes,
+and dinosaurs.
+
+AMA was developed by UTSA Ph.D. candidate Saniya Vahedian Movahed
+(with UMass Lowell undergraduate Erika Salas) and is being used to
+study children's attitudes of trust and confidence in AI chatbots.
+
+AMA was presented at SIGCSE '24 in a poster entitled [Perception,
+Trust, Attitudes, and Models: Introducing Children to AI and Machine Learning with Five Software Exhibits](https://sigcse2024.sigcse.org/track/sigcse-ts-2024-posters#program).
+
+
+
+
 

@@ -8,7 +8,7 @@ profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info: <p>Fall '25 Office Hours<br>Wed 1p-2p, Thu 2:30p-3:30p, Fri 2p-3p<br>San Pedro I 210D <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
+  more_info: <p>Spr '26 Office Hours<br>Wed 1p-2p, Thu 2:30p-3:30p, Fri 2p-3p<br>San Pedro I 210D <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
 
 #  more_info: <p>Summer '25 Office Hours</br><p><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email for app'tment<a></p>
 
@@ -20,17 +20,6 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-<hr>
-**WE ARE HIRING for multiple faculty positions in the College of AI, Cyber and Computing!!** <br>
-[Tenure-Track/Tenured Assistant/Associate/Full Professor of Information Systems and Cybersecurity](https://www.higheredjobs.com/institution/details.cfm?JobCode=179267137)
- (priority app due Mon Nov 3); <br>
-[Tenure-Track Asst Prof of Computer Science with focus area in cybersecurity and privacy](https://www.higheredjobs.com/institution/details.cfm?JobCode=179269541)
- (priority app due Sat Nov 15); <br>
-[Open Rank Teaching-Track Professor of Computer Science](https://www.higheredjobs.com/institution/details.cfm?JobCode=179257935)
- (priority app due Sat Nov 15); 
-<hr>
-
 
 Hi, everyone! I joined UT San Antonio on August 1, 2023 as
 professor and chair of computer science. Beginning June 1, 2025, I

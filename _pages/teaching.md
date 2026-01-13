@@ -7,11 +7,14 @@ nav: true
 nav_order: 5
 ---
 
+**Spring 2026**
+<br>CS 4953-901 / CS 5463-901 Developing AI Tools for K-12
+[[syllabus]](https://utsa.simplesyllabus.com/en-US/doc/tpmey0q5r)
+
 **Fall 2025**
 <br>CS 4953-901 / CS 5463-902 Developing AI Tools for K-12
 [[syllabus]](https://utsa.simplesyllabus.com/en-US/doc/ykx2jpgf8)
 [[projects flyer PDF]](/assets/pdf/AI%20EXPO%20FLYER%20HANDOUT%20Fall%202025.pdf)
-
 
 **Spring 2025**
 <br>CS 4953-901 / CS 5463-901 Developing AI Tools for K-12

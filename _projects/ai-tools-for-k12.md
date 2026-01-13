@@ -39,6 +39,20 @@ and state logging to facilitate user analysis.
 
 Try it here! [AI Hoops](https://ai-hoops.web.app/)
 
+### AI-See
+![]({{
+ "/assets/img/aitools/ai-see.png"}}){:style="height:180px"}
+
+AI-See was developed by UTSA undergraduate Durga Rajarajan in Spring 2025.
+It introduces the concepts of feature extraction in image
+recognition. Through interactive activities and challenge levels,
+AI-See teaches students about feature maps, kernels, and the matrix
+mathematical operations involved in convolution. AI-See was included
+in a summer camp module on image recognition, and a full paper will be
+presented at SIGCSE TS 2026.
+
+Try it here! [AI-See](https://pdr24.github.io/AI-See/)
+
 ### Into The Rabbit Hole
 
 ![]({{

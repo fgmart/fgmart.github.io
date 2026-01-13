@@ -5,12 +5,39 @@ description:
 img: /assets/img/developing-ai-tools-utsa.png
 importance: 1
 category: active
-related_publications: 10.1145/3724363.3729068, 10.1145/3724363.3729080, 10.1145/3706599.3719789, Wiatrek_Verma_Martin_2025, VahedianMovahed_Martin_2025, 10.1145/3641554.3701907, 11147419, 11147299, 10.1145/3702242, vahedian2024introducing, martin2024chemaistry, 10.1145/3545945.3569772, 10.1145/3576123.3576127, Touretzky_Gardner-McCune_Martin_Seehorn_2019, 10.1145/3544549.3573808
+related_publications: VahedianMovahed2025, 10.1145/3724363.3729068, 10.1145/3724363.3729080, 10.1145/3706599.3719789, Wiatrek_Verma_Martin_2025, VahedianMovahed_Martin_2025, 10.1145/3641554.3701907, 11147419, 11147299, 10.1145/3702242, vahedian2024introducing, martin2024chemaistry, 10.1145/3545945.3569772, 10.1145/3576123.3576127, Touretzky_Gardner-McCune_Martin_Seehorn_2019, 10.1145/3544549.3573808
 ---
 
 As part of the [AI-CARING NSF Institute](https://ai-caring.org), we
 are developing a set of interactive tools to introduce novice
 learners to ideas in AI.
+
+### Ice Cream Express
+![]({{
+ "/assets/img/aitools/ice-cream-express.png"}}){:style="height:180px"}
+
+Ice Cream Express was developed by Nicole Tian and Devansh Shah in the
+Developing AI Tools for K-12 course at UTSA (Fall 2025). This tool
+scaffolds the A* search algorithm for K-12 learners through an ice
+cream delivery game, where users are motivated to find the shortest
+path to maximize tips. The bot's delivery visualizes the A* search and
+reveals heuristic logic. The tool also captures real-time telemetry
+and state logging for each user.
+
+Try it here! [Ice Cream Express](https://icecreamexpress-6591d.web.app/)
+
+### AI Hoops
+![]({{
+ "/assets/img/aitools/ai-hoops.png"}}){:style="height:200px"}
+
+AI Hoops was developed by Nicole Tian and Chris Arellano in the
+Developing AI Tools for K-12 course at UTSA (Fall 2025). This tool
+teaches Q-Learning through an interactive basketball game played with
+an AI bot. It visualizes the bot's training process by displaying
+real-time Q-Table updates. Additionally, the tool captures telemetry
+and state logging to facilitate user analysis.
+
+Try it here! [AI Hoops](https://ai-hoops.web.app/)
 
 ### Into The Rabbit Hole
 
@@ -141,8 +168,12 @@ AMA was developed by UTSA Ph.D. candidate Saniya Vahedian Movahed
 (with UMass Lowell undergraduate Erika Salas) and is being used to
 study children's attitudes of trust and confidence in AI chatbots.
 
-AMA was presented at SIGCSE '24 in a poster entitled [Perception,
-Trust, Attitudes, and Models: Introducing Children to AI and Machine Learning with Five Software Exhibits](https://sigcse2024.sigcse.org/track/sigcse-ts-2024-posters#program).
+Results from the study using AMA are published the article [Ask Me
+Anything: Exploring Children’s Attitudes Toward an Age-tailored
+AI-powered
+Chatbot](https://link.springer.com/article/10.1007/s40593-025-00523-4)
+in the <em>International Journal of Artificial Intelligence in
+Education</em>.
 
 
 

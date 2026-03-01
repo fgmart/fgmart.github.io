@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="mailto:fred.martin@utsa.edu">Professor, Computer Science &amp; Interim Dean, College of AI, Cyber and Computing – fred.martin@utsa.edu</a>
+subtitle: <a href="mailto:fred.martin@utsa.edu">Professor and Chair, Computer Science, College of AI, Cyber and Computing – fred.martin@utsa.edu</a>
 
 profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info: <p>Spr '26 Office Hours<br>Wed 1p-2p, Thu 3p-4p, Fri 2p-3p<br>San Pedro I 210D <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
+  more_info: <p>Spr '26 Office Hours<br>Wed 1p-2p NPB 3.108d (Main Campus), Thu 3p-4p SPI 340a (Downtown Campus), Fri 2p-3p NPB 3.108d (Main Campus)<br><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
 
 #  more_info: <p>Summer '25 Office Hours</br><p><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email for app'tment<a></p>
 
@@ -21,24 +21,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, everyone! I joined UT San Antonio on August 1, 2023 as
-professor and chair of computer science. Beginning June 1, 2025, I
-am Interim Dean of our new [College of AI, Cyber and
-Computing](https://caicc.utsa.edu).
+Hi, everyone! I joined UT San Antonio on August 1, 2023 as professor
+and chair of computer science. On June 1, 2025, I was appointed
+interim dean of our new [College of AI, Cyber and
+Computing](https://caicc.utsa.edu). I returned to chair of computer
+science on March 1, 2026.
 
 
-**Dean's Welcome.** It is my privilege to serve the UT San Antonio
-community as your interim dean.  I strive to support all of
+**Chairs's Welcome.** It is my privilege to serve the UT San Antonio
+Department of Computer Science as chair.  I strive to support all of
 us&#151;students, staff, and faculty&#151;in pursuing our professional
 successes. I wish to foster an environment where all are respected and
 valued members of our community.
-
-Please see [information about the degree
-programs](https://caicc.utsa.edu/programs/) stewarded by our new
-college and some of your [questions answered
-here](https://www.utsa.edu/strategicplan/initiatives/academic/ai-cyber-computing-data-science/faq/). Please
-[email me](mailto:fred.martin@utsa.edu?subject=CAICC questions and
-ideas) to share any questions, ideas, and suggestions!
 
 Future and prospective CS majors (and parents and other family
 members): please see my FAQs about our computer science

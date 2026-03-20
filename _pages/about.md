@@ -28,7 +28,7 @@ Computing](https://caicc.utsa.edu). I returned to chair of computer
 science on March 1, 2026.
 
 
-**Chairs's Welcome.** It is my privilege to serve the UT San Antonio
+**Chair's Welcome.** It is my privilege to serve the UT San Antonio
 Department of Computer Science as chair.  I strive to support all of
 us&#151;students, staff, and faculty&#151;in pursuing our professional
 successes. I wish to foster an environment where all are respected and

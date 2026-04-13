@@ -16,6 +16,8 @@ profiles:
 
   - content: about_nicole.md
 
+  - content: about_johnweaver.md
+
   - content: about_durga.md
 
   - content: about_past_members.md

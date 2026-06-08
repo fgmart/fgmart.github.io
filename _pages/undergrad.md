@@ -96,7 +96,9 @@ during a internship job.
 The internship must be related to computer science and you must
 arrange for the academic credit *prior to beginning the job*.
 
-Contact the [CS Department](mailto:cs@utsa.edu?subject=internship info request)
+Unpaid internships are approved only when the sponsor is a not-for-profit organization.
+
+Please see the [College of AI, Cyber and Computing internship policies](https://caicc.utsa.edu/documents/caicc-internships-for-academic-credit-general-policies.pdf) and contact the [CS Department](mailto:cs@utsa.edu?subject=internship info request)
 for information.
 
 **What are my career opportunities after graduating?** \

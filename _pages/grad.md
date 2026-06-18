@@ -7,7 +7,7 @@ nav: true
 nav_order: 8
 ---
 
-**What graduate programs are offered?**
+**1. What graduate programs are offered?**
 
 We have three Master of Science (MS) programs and one Doctor of Philosphy (PhD) program:
 
@@ -33,13 +33,13 @@ conduct foundational and advanced coursework and carry out an original
 research dissertation supervised by our faculty members.
 
 
-**What is the difference between an MS degree and the PhD degree?**
+**2. What is the difference between an MS degree and the PhD degree?**
 
 Broadly, an MS program prepares you for careers in industry while the
 PhD program prepares you for a research career, including faculty
 careers.
 
-**What prior experience is required to be successful?**
+**3. What prior experience is required to be successful?**
 
 Generally, you should have technical background in a science or
 engineering field (i.e., an undergraduate degree). It's OK if you don't have
@@ -51,16 +51,20 @@ courses&#148; to give you necessary background in the computing
 field. Please note that these courses do not count towards the MS
 degree itself.
 
+For the PhD program, prior research experience, including publications
+in high-quality conference venues, is generally expected of
+competitive applicants.
+
 Please see specific application requirements at our &#147;apply&#148; links above.
 
-**What financial support is available for MS students?**
+**4. What financial support is available for MS students?**
 
 Please see the [Computer Science Department Scholarships
 page](https://caicc.utsa.edu/computer-science/scholarships/) and
 scroll down to the section &#147;Additional Support for Graduate
 Students.&#148; 
 
-**What financial support is available for PhD students?**
+**5. What financial support is available for PhD students?**
 
 All full-time, admitted PhD students are welcomed with an appointment
 as either a Graduate Teaching Assistant (GTA) or Graduate Research
@@ -71,25 +75,28 @@ year-round award starting at $2,000 per month.
 Please see more information at the &#147;Funding Opportunities&#148;
 tab at the PhD &#147;apply&#148; link above.
 
-**What kind of research can I do?**
+**6. What kind of research can I do?**
 
 Please see the [CS Department's research
-areas web page](https://caicc.utsa.edu/computer-science/research/), which
-includes a list of faculty members in each area. 
+page](https://caicc.utsa.edu/computer-science/research/). Scroll down
+to Research Areas and click on the + signs to expand each of the five
+areas and see the Participating Faculty in that area.
 
-During your first year as a doctoral student, you will engage in a
-structured process for you to find your PhD advisor.
+For PhD applicants, based on your existing interests, you are welcome
+to reach out to faculty during your application process.
 
-Based on your existing interests, you are welcome to reach out to
-faculty during your application process and after acceptance to the
-program.
+In the admissions process, we typically will reach out to you to be in
+touch with a specific faculty member who would become your
+advisor. All doctoral students begin working with their advisor in
+their first semester.
 
 Master's students have the option of participating in research. The MS
 degree programs offer Project (one-semester) and Thesis (two-semester)
-research options.
+research options. These relationships are based on student initiative
+after matriculation and successful progress in the program.
 
 
-**How do I write my Statement of Purpose when applying to the doctoral program?**
+**7. How do I write my Statement of Purpose when applying to the doctoral program?**
 
 I advise you to connect your interests with those of two or three
 faculty members in your Statement of Purpose. Any given faculty member
@@ -105,12 +112,12 @@ several.
 * Be explicit about how your prior work prepares you for work with
   each of the faculty members with whom you are interested in working.
 
-**Where is the official catalog information about the graduate programs in Computer Science?**
+**8. Where is the official catalog information about the graduate programs in Computer Science?**
 
 Please see the &#147;catalog&#148; links next to each of the programs
 listed above.
 
-**For applying to the PhD program, can I be exempted from TOEFL/IELTS examination requirement?**
+**9. For applying to the PhD program, can I be exempted from TOEFL/IELTS examination requirement?**
 
 The Graduate School's [International Graduate Student
 Admission](https://catalog.utsa.edu/policies/admission/graduate/internationalgraduatestudents/)
@@ -119,7 +126,7 @@ language exam requirement.
 
 If your home country appears on this list, you do not have to submit these exam scores.
 
-**My institutional transcript is provided in English. Do I still have to
+**10. My institutional transcript is provided in English. Do I still have to
   submit for Evaluation of Foreign Credentials?**
 
 Yes.
@@ -133,16 +140,16 @@ Per the information at the link above, you may use Educational
 Credential Evaluators (ECE), Foreign Credential Service of America
 (FCSA), or any other NACES-approved evaluation agency.
 
-**How do I apply?**
+**11. How do I apply?**
 
 Please see the &#147;apply&#148; links next to each of the programs
 listed above.
 
-**Where is the main UT San Antonio Computer Science Department web site?**
+**12. Where is the main UT San Antonio Computer Science Department web site?**
 
 It's here: [https://caicc.utsa.edu/computer-science/](https://caicc.utsa.edu/computer-science/).
 
-**I have more questions!**
+**13. I have more questions!**
 
 You are welcome to be in touch with me&#151;Dr. Fred Martin, professor
 and chair, [fred.martin@utsa.edu](mailto:fred.martin@utsa.edu).

@@ -8,9 +8,9 @@ profile:
   align: right
   image: csta-headshot-befunky-underpainting.png
   image_circular: true # crops the image to make it circular
-  more_info: <p>Spr '26 Office Hours<br>Wed 1p-2p NPB 3.108d (Main Campus), Thu 3p-4p SPI 340a (Downtown Campus), Fri 2p-3p NPB 3.108d (Main Campus)<br><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
+  more_info: <p>Summer '26 Office Hours</br><p><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">email for appointment<a></p>
 
-#  more_info: <p>Summer '25 Office Hours</br><p><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email for app'tment<a></p>
+#  more_info: <p>Spr '26 Office Hours<br>Wed 1p-2p NPB 3.108d (Main Campus), Thu 3p-4p SPI 340a (Downtown Campus), Fri 2p-3p NPB 3.108d (Main Campus)<br><a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
 
 # more_info: <p>Spr '25 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Thu 2:30p-3:30p San Pedro I 340a <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
 

@@ -6,8 +6,8 @@ inline: false
 related_posts: false
 ---
 
-Last week we ran our second annual &#147;AI For Everyone!&#148; day
-camp to teach San Antonio-area middle schoolers how AI works!  The
+Last week we ran our second annual **AI For Everyone!** day
+camp to teach San Antonio-area middle schoolers how AI works.  The
 camp was held from Monday June 1 through Thursday June 4, 2026, in UT
 San Antonio&#146;s San Pedro I building. 32 students completed the
 camp.

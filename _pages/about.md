@@ -15,7 +15,7 @@ profile:
 # more_info: <p>Spr '25 Office Hours<br>Wed 2p-3p Fri 11a-12n NPB 3.108D Main Campus<br>Thu 2:30p-3:30p San Pedro I 340a <a href="mailto:fred.martin@utsa.edu?subject=office hours appointment request">pls email to confirm</a></p>
 
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page

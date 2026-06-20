@@ -26,8 +26,8 @@ Two of our original tools are available for immediate use:
 where you and your partner each define rules for your agent to play a
 2D-scroller parkour game, and
 **[Build-A-Plate](https://build-a-plate.vercel.app/)**, where you create
-meals and train an AI to recognize them as &#147;healthy&#148; or
-&#147;not balanced.&#148;
+meals and train an AI to recognize them as &#147;Balanced&#148; or
+&#147;Needs Improvement.&#148;
 
 An all-star team made the camp happen: students and volunteers
 **Phillip Comeau**,

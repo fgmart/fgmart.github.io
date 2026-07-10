@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three papers accepted to SIGCSE-V!
+title: Three papers accepted to SIGCSE-V 2026
 date: 2026-07-10
 inline: false
 related_posts: false

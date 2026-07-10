@@ -6,6 +6,14 @@ inline: false
 related_posts: false
 ---
 
+{% include figure.html 
+   path="assets/img/news/2026-sigcsev.png" 
+   class="rounded z-depth-1" 
+   zoomable=true 
+   alt="SIGCSE-V 2026 conference logo"
+   height="150"
+    %}
+
 I'm delighted that three papers led by my students are accepted to
 [SIGCSE Virtual 2026, The 2nd ACM Virtual Global Computing Education
 Conference](https://sigcsevirtual2026.acm.org/):

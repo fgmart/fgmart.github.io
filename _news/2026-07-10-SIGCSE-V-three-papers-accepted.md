@@ -20,7 +20,7 @@ Conference](https://sigcsevirtual2026.acm.org/):
 
 1. **WiseSpend AI: Engaging K-12 Students in Financial Literacy by
 Evaluating the Human Role in Training Artificial Intelligence** led by
-J&eacute;sus Granados and Jos&eacute; Granados.
+Jes&uacute;s Granados and Jos&eacute; Granados.
 
     The brothers were students in my spring [Developing AI Tools for
 K&#150;12](https://utsa.simplesyllabus.com/en-US/doc/tpmey0q5r) class
@@ -29,7 +29,7 @@ AI,&#148; which introduces students to machine learning in the context
 of personal finance.
 
     My doctoral student John Weaver was their mentor and is
-co-author. Congratulations, J&eacute;sus and Jos&eacute; for their
+co-author. Congratulations, Jes&uacute;s and Jos&eacute; for their
 first conference paper!
 
 1. **RuleRunners: A Two-Player Collaborative Software Tool for Introducing Rule-Based AI Systems to Middle School Students** by Durga Rajarajan.

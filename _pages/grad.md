@@ -110,7 +110,7 @@ several.
   each of the faculty members with whom you are interested in working.
 
 Also&#151;please see this excellent &#147;4 dimensions&#148; framework
-by [Bianca Victoria](https://www.linkedin.com/in/biancavictorica/), a
+by [Bianca Victorica](https://www.linkedin.com/in/biancavictorica/), a
 former graduate admissions officer at UC Berkeley: [Why Your Statement
 of Purpose Isn't the
 Problem](https://www.linkedin.com/in/biancavictorica/). Everything she

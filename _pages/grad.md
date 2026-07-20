@@ -113,8 +113,8 @@ Also&#151;please see this excellent &#147;4 dimensions&#148; framework
 by [Bianca Victorica](https://www.linkedin.com/in/biancavictorica/), a
 former graduate admissions officer at UC Berkeley: [Why Your Statement
 of Purpose Isn't the
-Problem](https://www.linkedin.com/in/biancavictorica/). Everything she
-says is correct.
+Problem](https://bivi.substack.com/p/why-your-statement-of-purpose-isnt). Everything
+she says is correct.
 
 **8. Where is the official catalog information about the graduate programs in Computer Science?**
 

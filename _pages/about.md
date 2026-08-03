@@ -63,6 +63,6 @@ My team is called the Engaging Computing Group&#151;see our
 
 **Before UT San Antonio**, I was at the [University of Massachusetts
 Lowell](https://www.uml.edu). I started in 2002 as an asst. prof. of
-computer science. After tenure, I did a lot of administrative service,
-including being an associate dean. Here's my [web page
-there](https://www.cs.uml.edu/~fredm).
+computer science. After tenure, I dove into administrative service and
+leadership, including being an acting chair and associate dean. Here
+is my [web page there](https://www.cs.uml.edu/~fredm).

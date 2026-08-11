@@ -8,8 +8,8 @@ nav_order: 5
 ---
 
 **Fall 2026**
-<br>CS 4153-901 / Developing AI Tools for K-12 [[syllabus]](https://utsa.simplesyllabus.com/en-US/doc-preview/bfd68e08-7862-4cf3-a950-8dd75bd86dba/syllabus/Fall%202026/4356)
-<br>CS 5463-902 / Developing AI Tools for K-12 [[syllabus]](https://utsa.simplesyllabus.com/en-US/doc-preview/c897e98a-23ac-4127-880f-1ec2953d4af7/syllabus/Fall%202026/4355)
+<br>CS 4153-901 / Developing AI Tools for K-12 [[syllabus]](https://utsa.simplesyllabus.com/en-US/doc/sfycy8380)
+<br>CS 5463-902 / Developing AI Tools for K-12 [[syllabus]](https://utsa.simplesyllabus.com/doc/y7ac40j32/)
 
 **Spring 2026**
 <br>CS 4953-901 / CS 5463-901 Developing AI Tools for K-12

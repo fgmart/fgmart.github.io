@@ -94,15 +94,15 @@ privacy... Overall, the findings suggest that meaningful opportunities
 exist for teachers and students to engage with AI concepts within
 subject-area contexts.&#148;
 
-    The full team of co-authors contributed to the direct work with
-    teachers, making meaning from the data we collected, and the paper
+    The co-authors contributed to the work with teachers,
+    making meaning from the data we collected, and the paper
     itself. Thank you to my colleagues and our students: at the
     University at Albany, Dr. Lijun Ni and her doctoral student Lin
     Zhu; at UT San Antonio, Dr. Ismaila Sanusi, Dr. Deepti Tagare, and
-    undergraduate student Hailey Muñiz; at the University of the Incarnate
-    Word (San Antonio), Dr. Lucretia M. Fraga; and our project
-    evaluator Diane Schilder. Thank you for leading the submission,
-    Lin!
+    undergraduate student Hailey Muñiz; at the University of the
+    Incarnate Word (San Antonio), Dr. Lucretia M. Fraga; and our
+    project evaluator Diane Schilder. Thank you for leading the
+    submission, Lin!
 
 The papers will be presented at the 58th SIGCSE Technical Symposium in
 Sacremento, CA from February 17 through 20, 2027. See you there!

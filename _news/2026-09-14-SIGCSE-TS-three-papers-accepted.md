@@ -94,9 +94,7 @@ privacy... Overall, the findings suggest that meaningful opportunities
 exist for teachers and students to engage with AI concepts within
 subject-area contexts.&#148;
 
-    The co-authors contributed to the work with teachers,
-    making meaning from the data we collected, and the paper
-    itself. Thank you to my colleagues and our students: at the
+    Thank you to my colleagues and our students: at the
     University at Albany, Dr. Lijun Ni and her doctoral student Lin
     Zhu; at UT San Antonio, Dr. Ismaila Sanusi, Dr. Deepti Tagare, and
     undergraduate student Hailey Muñiz; at the University of the
